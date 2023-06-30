@@ -25,778 +25,234 @@ ca.pcpartpicker.com//display colors,mount_type
 ca.pcpartpicker.com//screen size,monitor_depth
 ca.pcpartpicker.com//screen size,monitor_height
 ca.pcpartpicker.com//screen size,monitor_width
-catalog.com//response time,response_time
-catalog.com//screen size,screen_size_vertical
-catalog.com//display colors,screen_type
 catalog.com//refresh rate,horizontal_refresh_rate_range
 catalog.com//refresh rate,vertical_refresh_rate_range
-catalog.com//screen size,screen_size_diagonal
-catalog.com//screen size,screen_size_horizontal
-catalog.com//model,brand
-catalog.com//model,color
-catalog.com//model,mount_model
 catalog.com//product line,number_of_colors
 catalog.com//contrast ratio,contrast_ratio_static
 catalog.com//contrast ratio,contrast_ratio_dynamic
-catalog.com//screen size,monitor_dimension
-catalog.com//screen size,screen_brightness
-catalog.com//display colors,mount_model
 catalog.com//max resolution,power_consumption_max
-catalog.com//display colors,monitor_dimension
-catalog.com//display colors,screen_brightness
-catalog.com//display colors,monitor_dimension_with_stand
-catalog.com//display colors,brand
-catalog.com//screen size,monitor_dimension_with_stand
 catalog.com//refresh rate,digital_horizontal_refresh_rate_range
 catalog.com//refresh rate,digital_vertical_refresh_rate_range
-catalog.com//display colors,mount_type
-catalog.com//screen size,monitor_depth
-catalog.com//screen size,monitor_height
-catalog.com//screen size,monitor_width
-ce.yikus.com//response time,response_time
 ce.yikus.com//brand,brand
 ce.yikus.com//color,color
-ce.yikus.com//screen size,screen_size_vertical
 ce.yikus.com//label,brand
-ce.yikus.com//display colors,screen_type
-ce.yikus.com//refresh rate,horizontal_refresh_rate_range
-ce.yikus.com//refresh rate,vertical_refresh_rate_range
-ce.yikus.com//screen size,screen_size_diagonal
-ce.yikus.com//screen size,screen_size_horizontal
+ce.yikus.com//brand,color
 ce.yikus.com//model,brand
 ce.yikus.com//model,color
-ce.yikus.com//brand,color
 ce.yikus.com//color,brand
-ce.yikus.com//model,mount_model
 ce.yikus.com//category,brand
 ce.yikus.com//category,color
+ce.yikus.com//model,mount_model
 ce.yikus.com//part number,number_of_colors
 ce.yikus.com//color,number_of_colors
-ce.yikus.com//product line,number_of_colors
-ce.yikus.com//contrast ratio,contrast_ratio_static
-ce.yikus.com//contrast ratio,contrast_ratio_dynamic
 ce.yikus.com//brand,number_of_colors
 ce.yikus.com//category,number_of_colors
-ce.yikus.com//screen size,monitor_dimension
-ce.yikus.com//screen size,screen_brightness
-ce.yikus.com//display colors,mount_model
-ce.yikus.com//max resolution,power_consumption_max
-ce.yikus.com//display colors,monitor_dimension
-ce.yikus.com//display colors,screen_brightness
 ce.yikus.com//title,brand
 ce.yikus.com//size,number_of_colors
-ce.yikus.com//display colors,monitor_dimension_with_stand
-ce.yikus.com//display colors,brand
 ce.yikus.com//brand,mount_model
 ce.yikus.com//brand,mount_type
-ce.yikus.com//screen size,monitor_dimension_with_stand
-ce.yikus.com//refresh rate,digital_horizontal_refresh_rate_range
-ce.yikus.com//refresh rate,digital_vertical_refresh_rate_range
-ce.yikus.com//display colors,mount_type
-ce.yikus.com//screen size,monitor_depth
-ce.yikus.com//screen size,monitor_height
-ce.yikus.com//screen size,monitor_width
 ce.yikus.com//brand,screen_type
 ce.yikus.com//format,color
-www.best-deal-items.com//response time,response_time
-www.best-deal-items.com//brand,brand
-www.best-deal-items.com//color,color
 www.best-deal-items.com//item sort,screen_type
-www.best-deal-items.com//screen size,screen_size_vertical
-www.best-deal-items.com//label,brand
-www.best-deal-items.com//display colors,screen_type
-www.best-deal-items.com//refresh rate,horizontal_refresh_rate_range
-www.best-deal-items.com//refresh rate,vertical_refresh_rate_range
 www.best-deal-items.com//item sort,brand
 www.best-deal-items.com//item sort,number_of_colors
-www.best-deal-items.com//screen size,screen_size_diagonal
-www.best-deal-items.com//screen size,screen_size_horizontal
-www.best-deal-items.com//model,brand
-www.best-deal-items.com//model,color
-www.best-deal-items.com//brand,color
-www.best-deal-items.com//color,brand
-www.best-deal-items.com//model,mount_model
-www.best-deal-items.com//category,brand
-www.best-deal-items.com//category,color
-www.best-deal-items.com//part number,number_of_colors
-www.best-deal-items.com//color,number_of_colors
-www.best-deal-items.com//product line,number_of_colors
-www.best-deal-items.com//contrast ratio,contrast_ratio_static
-www.best-deal-items.com//contrast ratio,contrast_ratio_dynamic
-www.best-deal-items.com//brand,number_of_colors
-www.best-deal-items.com//category,number_of_colors
-www.best-deal-items.com//screen size,monitor_dimension
-www.best-deal-items.com//screen size,screen_brightness
-www.best-deal-items.com//display colors,mount_model
-www.best-deal-items.com//max resolution,power_consumption_max
-www.best-deal-items.com//display colors,monitor_dimension
-www.best-deal-items.com//display colors,screen_brightness
-www.best-deal-items.com//title,brand
-www.best-deal-items.com//size,number_of_colors
 www.best-deal-items.com//item sort,color
 www.best-deal-items.com//item sort,mount_type
-www.best-deal-items.com//display colors,monitor_dimension_with_stand
-www.best-deal-items.com//display colors,brand
-www.best-deal-items.com//brand,mount_model
-www.best-deal-items.com//brand,mount_type
 www.best-deal-items.com//item sort,screen_size_diagonal
-www.best-deal-items.com//screen size,monitor_dimension_with_stand
-www.best-deal-items.com//refresh rate,digital_horizontal_refresh_rate_range
-www.best-deal-items.com//refresh rate,digital_vertical_refresh_rate_range
-www.best-deal-items.com//display colors,mount_type
-www.best-deal-items.com//screen size,monitor_depth
-www.best-deal-items.com//screen size,monitor_height
-www.best-deal-items.com//screen size,monitor_width
-www.best-deal-items.com//brand,screen_type
-www.best-deal-items.com//format,color
 www.cleverboxes.com//response time,response_time
-www.cleverboxes.com//brand,brand
-www.cleverboxes.com//color,color
 www.cleverboxes.com//screen type,screen_type
 www.cleverboxes.com//speakers,has_speakers
 www.cleverboxes.com//pixel pitch,pixel_pitch
 www.cleverboxes.com//display type,screen_type
 www.cleverboxes.com//power consumption,power_consumption_class
-www.cleverboxes.com//item sort,screen_type
 www.cleverboxes.com//hdmi ports,has_hdmi_port
 www.cleverboxes.com//headphone ports,has_headphone_port
 www.cleverboxes.com//usb ports,has_usb_port
-www.cleverboxes.com//screen size,screen_size_vertical
 www.cleverboxes.com//case colour,mount_type
-www.cleverboxes.com//label,brand
 www.cleverboxes.com//case colour,screen_type
 www.cleverboxes.com//case colour,number_of_colors
 www.cleverboxes.com//screen dimensions,monitor_dimension
-www.cleverboxes.com//display colors,screen_type
-www.cleverboxes.com//refresh rate,horizontal_refresh_rate_range
-www.cleverboxes.com//refresh rate,vertical_refresh_rate_range
 www.cleverboxes.com//product type,number_of_colors
 www.cleverboxes.com//model name,brand
-www.cleverboxes.com//item sort,brand
 www.cleverboxes.com//in the box,packaging_weight
-www.cleverboxes.com//item sort,number_of_colors
-www.cleverboxes.com//screen size,screen_size_diagonal
-www.cleverboxes.com//screen size,screen_size_horizontal
-www.cleverboxes.com//model,brand
-www.cleverboxes.com//model,color
-www.cleverboxes.com//brand,color
-www.cleverboxes.com//color,brand
 www.cleverboxes.com//description,brand
 www.cleverboxes.com//description,color
 www.cleverboxes.com//view angle,packaging_weight
 www.cleverboxes.com//wall mount,mount_type
 www.cleverboxes.com//power consumption,power_consumption_max
 www.cleverboxes.com//screen dimensions,monitor_dimension_with_stand
-www.cleverboxes.com//model,mount_model
-www.cleverboxes.com//category,brand
-www.cleverboxes.com//category,color
-www.cleverboxes.com//part number,number_of_colors
-www.cleverboxes.com//color,number_of_colors
 www.cleverboxes.com//displayport in,has_displayport
 www.cleverboxes.com//display type,mount_type
-www.cleverboxes.com//product line,number_of_colors
 www.cleverboxes.com//contrast ratio,contrast_ratio_static
 www.cleverboxes.com//wall mount,mount_model
 www.cleverboxes.com//contrast ratio,contrast_ratio_dynamic
 www.cleverboxes.com//plug and play,mount_model
 www.cleverboxes.com//model name,number_of_colors
-www.cleverboxes.com//brand,number_of_colors
 www.cleverboxes.com//power supply,power_consumption_class
 www.cleverboxes.com//product family,number_of_colors
 www.cleverboxes.com//case colour,mount_model
 www.cleverboxes.com//power consumption,power_consumption_standy
-www.cleverboxes.com//category,number_of_colors
 www.cleverboxes.com//screen type,mount_type
-www.cleverboxes.com//screen size,monitor_dimension
 www.cleverboxes.com//headphone ports,headphone_port_type
 www.cleverboxes.com//product type,color
-www.cleverboxes.com//screen size,screen_brightness
-www.cleverboxes.com//display colors,mount_model
 www.cleverboxes.com//display type,mount_model
-www.cleverboxes.com//max resolution,power_consumption_max
 www.cleverboxes.com//product type,mount_type
 www.cleverboxes.com//product type,screen_type
-www.cleverboxes.com//display colors,monitor_dimension
 www.cleverboxes.com//display type,monitor_dimension
-www.cleverboxes.com//display colors,screen_brightness
 www.cleverboxes.com//display type,monitor_weight
-www.cleverboxes.com//title,brand
 www.cleverboxes.com//in the box,packaging_height
-www.cleverboxes.com//size,number_of_colors
-www.cleverboxes.com//item sort,color
 www.cleverboxes.com//screen type,headphone_port_type
 www.cleverboxes.com//view angle,monitor_weight_with_stand
-www.cleverboxes.com//item sort,mount_type
-www.cleverboxes.com//display colors,monitor_dimension_with_stand
 www.cleverboxes.com//display type,monitor_dimension_with_stand
-www.cleverboxes.com//display colors,brand
-www.cleverboxes.com//brand,mount_model
-www.cleverboxes.com//brand,mount_type
 www.cleverboxes.com//product type,brand
 www.cleverboxes.com//display type,brand
-www.cleverboxes.com//item sort,screen_size_diagonal
-www.cleverboxes.com//screen size,monitor_dimension_with_stand
-www.cleverboxes.com//refresh rate,digital_horizontal_refresh_rate_range
-www.cleverboxes.com//refresh rate,digital_vertical_refresh_rate_range
 www.cleverboxes.com//display type,monitor_weight_with_stand
 www.cleverboxes.com//case colour,headphone_port_type
-www.cleverboxes.com//display colors,mount_type
 www.cleverboxes.com//screen type,monitor_dimension
 www.cleverboxes.com//plug and play,mount_type
-www.cleverboxes.com//screen size,monitor_depth
-www.cleverboxes.com//screen size,monitor_height
-www.cleverboxes.com//screen size,monitor_width
 www.cleverboxes.com//screen type,monitor_weight
-www.cleverboxes.com//brand,screen_type
-www.cleverboxes.com//format,color
 www.cleverboxes.com//case colour,color
 www.cleverboxes.com//screen type,brand
 www.cleverboxes.com//in the box,packaging_depth
-www.ebay.com//response time,response_time
 www.ebay.com//brand,brand
-www.ebay.com//color,color
-www.ebay.com//screen type,screen_type
-www.ebay.com//speakers,has_speakers
-www.ebay.com//pixel pitch,pixel_pitch
-www.ebay.com//display type,screen_type
-www.ebay.com//power consumption,power_consumption_class
-www.ebay.com//item sort,screen_type
-www.ebay.com//hdmi ports,has_hdmi_port
-www.ebay.com//headphone ports,has_headphone_port
-www.ebay.com//usb ports,has_usb_port
+www.ebay.com//response time,response_time
 www.ebay.com//screen size,screen_size_vertical
-www.ebay.com//case colour,mount_type
-www.ebay.com//label,brand
-www.ebay.com//case colour,screen_type
-www.ebay.com//case colour,number_of_colors
-www.ebay.com//screen dimensions,monitor_dimension
-www.ebay.com//display colors,screen_type
-www.ebay.com//refresh rate,horizontal_refresh_rate_range
-www.ebay.com//refresh rate,vertical_refresh_rate_range
-www.ebay.com//product type,number_of_colors
-www.ebay.com//model name,brand
-www.ebay.com//item sort,brand
-www.ebay.com//in the box,packaging_weight
-www.ebay.com//item sort,number_of_colors
+www.ebay.com//brand,color
 www.ebay.com//screen size,screen_size_diagonal
 www.ebay.com//screen size,screen_size_horizontal
 www.ebay.com//model,brand
 www.ebay.com//model,color
-www.ebay.com//brand,color
-www.ebay.com//color,brand
-www.ebay.com//description,brand
-www.ebay.com//description,color
-www.ebay.com//view angle,packaging_weight
-www.ebay.com//wall mount,mount_type
-www.ebay.com//power consumption,power_consumption_max
-www.ebay.com//screen dimensions,monitor_dimension_with_stand
 www.ebay.com//model,mount_model
-www.ebay.com//category,brand
-www.ebay.com//category,color
-www.ebay.com//part number,number_of_colors
-www.ebay.com//color,number_of_colors
-www.ebay.com//displayport in,has_displayport
-www.ebay.com//display type,mount_type
-www.ebay.com//product line,number_of_colors
-www.ebay.com//wall mount,mount_model
-www.ebay.com//plug and play,mount_model
-www.ebay.com//model name,number_of_colors
 www.ebay.com//brand,number_of_colors
-www.ebay.com//power supply,power_consumption_class
-www.ebay.com//product family,number_of_colors
-www.ebay.com//case colour,mount_model
-www.ebay.com//power consumption,power_consumption_standy
-www.ebay.com//category,number_of_colors
-www.ebay.com//screen type,mount_type
 www.ebay.com//screen size,monitor_dimension
-www.ebay.com//headphone ports,headphone_port_type
-www.ebay.com//product type,color
 www.ebay.com//screen size,screen_brightness
-www.ebay.com//display colors,mount_model
-www.ebay.com//display type,mount_model
 www.ebay.com//max resolution,power_consumption_max
 www.ebay.com//max. resolution,power_consumption_max
-www.ebay.com//product type,mount_type
-www.ebay.com//product type,screen_type
-www.ebay.com//display colors,monitor_dimension
-www.ebay.com//display type,monitor_dimension
-www.ebay.com//display colors,screen_brightness
-www.ebay.com//display type,monitor_weight
-www.ebay.com//title,brand
-www.ebay.com//in the box,packaging_height
-www.ebay.com//size,number_of_colors
-www.ebay.com//item sort,color
-www.ebay.com//screen type,headphone_port_type
-www.ebay.com//view angle,monitor_weight_with_stand
-www.ebay.com//item sort,mount_type
-www.ebay.com//display colors,monitor_dimension_with_stand
-www.ebay.com//display type,monitor_dimension_with_stand
-www.ebay.com//display colors,brand
 www.ebay.com//brand,mount_model
 www.ebay.com//brand,mount_type
-www.ebay.com//product type,brand
-www.ebay.com//display type,brand
-www.ebay.com//item sort,screen_size_diagonal
 www.ebay.com//screen size,monitor_dimension_with_stand
-www.ebay.com//refresh rate,digital_horizontal_refresh_rate_range
-www.ebay.com//refresh rate,digital_vertical_refresh_rate_range
-www.ebay.com//display type,monitor_weight_with_stand
-www.ebay.com//case colour,headphone_port_type
-www.ebay.com//display colors,mount_type
-www.ebay.com//screen type,monitor_dimension
-www.ebay.com//plug and play,mount_type
 www.ebay.com//screen size,monitor_depth
 www.ebay.com//screen size,monitor_height
 www.ebay.com//screen size,monitor_width
-www.ebay.com//screen type,monitor_weight
 www.ebay.com//brand,screen_type
-www.ebay.com//format,color
-www.ebay.com//case colour,color
-www.ebay.com//screen type,brand
-www.ebay.com//in the box,packaging_depth
 www.getprice.com.au//response time,response_time
-www.getprice.com.au//brand,brand
-www.getprice.com.au//color,color
-www.getprice.com.au//screen type,screen_type
 www.getprice.com.au//speakers,has_speakers
-www.getprice.com.au//pixel pitch,pixel_pitch
-www.getprice.com.au//display type,screen_type
 www.getprice.com.au//monitor type,screen_type
-www.getprice.com.au//power consumption,power_consumption_class
-www.getprice.com.au//item sort,screen_type
-www.getprice.com.au//hdmi ports,has_hdmi_port
-www.getprice.com.au//headphone ports,has_headphone_port
-www.getprice.com.au//usb ports,has_usb_port
-www.getprice.com.au//screen size,screen_size_vertical
-www.getprice.com.au//case colour,mount_type
-www.getprice.com.au//label,brand
-www.getprice.com.au//case colour,screen_type
-www.getprice.com.au//case colour,number_of_colors
-www.getprice.com.au//screen dimensions,monitor_dimension
-www.getprice.com.au//display colors,screen_type
-www.getprice.com.au//refresh rate,horizontal_refresh_rate_range
-www.getprice.com.au//refresh rate,vertical_refresh_rate_range
-www.getprice.com.au//product type,number_of_colors
 www.getprice.com.au//monitor size,monitor_dimension
-www.getprice.com.au//model name,brand
-www.getprice.com.au//item sort,brand
-www.getprice.com.au//in the box,packaging_weight
-www.getprice.com.au//item sort,number_of_colors
-www.getprice.com.au//screen size,screen_size_diagonal
-www.getprice.com.au//screen size,screen_size_horizontal
-www.getprice.com.au//model,brand
-www.getprice.com.au//model,color
-www.getprice.com.au//brand,color
-www.getprice.com.au//color,brand
-www.getprice.com.au//description,brand
-www.getprice.com.au//description,color
-www.getprice.com.au//view angle,packaging_weight
 www.getprice.com.au//monitor size,screen_size_vertical
-www.getprice.com.au//wall mount,mount_type
-www.getprice.com.au//power consumption,power_consumption_max
-www.getprice.com.au//screen dimensions,monitor_dimension_with_stand
-www.getprice.com.au//model,mount_model
-www.getprice.com.au//category,brand
-www.getprice.com.au//category,color
-www.getprice.com.au//part number,number_of_colors
-www.getprice.com.au//color,number_of_colors
-www.getprice.com.au//displayport in,has_displayport
-www.getprice.com.au//display type,mount_type
 www.getprice.com.au//monitor type,monitor_dimension
 www.getprice.com.au//monitor type,monitor_weight
-www.getprice.com.au//product line,number_of_colors
 www.getprice.com.au//monitor size,monitor_depth
 www.getprice.com.au//monitor size,monitor_height
 www.getprice.com.au//monitor size,monitor_width
-www.getprice.com.au//wall mount,mount_model
 www.getprice.com.au//monitor size,monitor_dimension_with_stand
-www.getprice.com.au//plug and play,mount_model
-www.getprice.com.au//model name,number_of_colors
-www.getprice.com.au//brand,number_of_colors
-www.getprice.com.au//power supply,power_consumption_class
 www.getprice.com.au//monitor size,monitor_weight
-www.getprice.com.au//product family,number_of_colors
-www.getprice.com.au//case colour,mount_model
-www.getprice.com.au//power consumption,power_consumption_standy
-www.getprice.com.au//category,number_of_colors
-www.getprice.com.au//screen type,mount_type
 www.getprice.com.au//monitor type,mount_type
-www.getprice.com.au//screen size,monitor_dimension
-www.getprice.com.au//headphone ports,headphone_port_type
-www.getprice.com.au//product type,color
-www.getprice.com.au//screen size,screen_brightness
-www.getprice.com.au//display colors,mount_model
-www.getprice.com.au//display type,mount_model
-www.getprice.com.au//max resolution,power_consumption_max
-www.getprice.com.au//max. resolution,power_consumption_max
-www.getprice.com.au//product type,mount_type
-www.getprice.com.au//product type,screen_type
-www.getprice.com.au//display colors,monitor_dimension
-www.getprice.com.au//display type,monitor_dimension
 www.getprice.com.au//monitor size,screen_size_diagonal
 www.getprice.com.au//monitor size,screen_size_horizontal
 www.getprice.com.au//monitor type,monitor_dimension_with_stand
-www.getprice.com.au//display colors,screen_brightness
-www.getprice.com.au//display type,monitor_weight
-www.getprice.com.au//title,brand
-www.getprice.com.au//in the box,packaging_height
 www.getprice.com.au//monitor type,monitor_weight_with_stand
-www.getprice.com.au//size,number_of_colors
 www.getprice.com.au//monitor size,monitor_depth_with_stand
 www.getprice.com.au//monitor size,monitor_height_with_stand
 www.getprice.com.au//monitor size,monitor_width_with_stand
-www.getprice.com.au//item sort,color
-www.getprice.com.au//screen type,headphone_port_type
-www.getprice.com.au//view angle,monitor_weight_with_stand
-www.getprice.com.au//item sort,mount_type
 www.getprice.com.au//monitor size,monitor_weight_with_stand
-www.getprice.com.au//display colors,monitor_dimension_with_stand
-www.getprice.com.au//display type,monitor_dimension_with_stand
-www.getprice.com.au//display colors,brand
-www.getprice.com.au//brand,mount_model
-www.getprice.com.au//brand,mount_type
-www.getprice.com.au//product type,brand
-www.getprice.com.au//display type,brand
-www.getprice.com.au//item sort,screen_size_diagonal
-www.getprice.com.au//screen size,monitor_dimension_with_stand
-www.getprice.com.au//refresh rate,digital_horizontal_refresh_rate_range
-www.getprice.com.au//refresh rate,digital_vertical_refresh_rate_range
-www.getprice.com.au//display type,monitor_weight_with_stand
-www.getprice.com.au//case colour,headphone_port_type
-www.getprice.com.au//display colors,mount_type
-www.getprice.com.au//screen type,monitor_dimension
-www.getprice.com.au//plug and play,mount_type
-www.getprice.com.au//screen size,monitor_depth
-www.getprice.com.au//screen size,monitor_height
-www.getprice.com.au//screen size,monitor_width
-www.getprice.com.au//screen type,monitor_weight
-www.getprice.com.au//brand,screen_type
-www.getprice.com.au//format,color
-www.getprice.com.au//case colour,color
-www.getprice.com.au//screen type,brand
-www.getprice.com.au//in the box,packaging_depth
 www.getprice.com.au//monitor type,brand
-www.hardware-planet.it//response time,response_time
-www.hardware-planet.it//brand,brand
-www.hardware-planet.it//color,color
-www.hardware-planet.it//screen type,screen_type
-www.hardware-planet.it//speakers,has_speakers
-www.hardware-planet.it//pixel pitch,pixel_pitch
 www.hardware-planet.it//bluetooth,bluetooth
-www.hardware-planet.it//display type,screen_type
-www.hardware-planet.it//monitor type,screen_type
-www.hardware-planet.it//power consumption,power_consumption_class
-www.hardware-planet.it//item sort,screen_type
-www.hardware-planet.it//hdmi ports,has_hdmi_port
-www.hardware-planet.it//headphone ports,has_headphone_port
-www.hardware-planet.it//usb ports,has_usb_port
-www.hardware-planet.it//screen size,screen_size_vertical
-www.hardware-planet.it//case colour,mount_type
-www.hardware-planet.it//label,brand
-www.hardware-planet.it//case colour,screen_type
-www.hardware-planet.it//case colour,number_of_colors
-www.hardware-planet.it//screen dimensions,monitor_dimension
-www.hardware-planet.it//display colors,screen_type
-www.hardware-planet.it//refresh rate,horizontal_refresh_rate_range
-www.hardware-planet.it//refresh rate,vertical_refresh_rate_range
-www.hardware-planet.it//product type,number_of_colors
-www.hardware-planet.it//monitor size,monitor_dimension
-www.hardware-planet.it//model name,brand
-www.hardware-planet.it//item sort,brand
-www.hardware-planet.it//in the box,packaging_weight
-www.hardware-planet.it//item sort,number_of_colors
-www.hardware-planet.it//screen size,screen_size_diagonal
-www.hardware-planet.it//screen size,screen_size_horizontal
-www.hardware-planet.it//model,brand
-www.hardware-planet.it//model,color
-www.hardware-planet.it//brand,color
-www.hardware-planet.it//color,brand
-www.hardware-planet.it//description,brand
-www.hardware-planet.it//description,color
-www.hardware-planet.it//view angle,packaging_weight
-www.hardware-planet.it//monitor size,screen_size_vertical
-www.hardware-planet.it//wall mount,mount_type
-www.hardware-planet.it//power consumption,power_consumption_max
-www.hardware-planet.it//screen dimensions,monitor_dimension_with_stand
-www.hardware-planet.it//model,mount_model
-www.hardware-planet.it//category,brand
-www.hardware-planet.it//category,color
-www.hardware-planet.it//part number,number_of_colors
-www.hardware-planet.it//color,number_of_colors
-www.hardware-planet.it//displayport in,has_displayport
-www.hardware-planet.it//display type,mount_type
-www.hardware-planet.it//monitor type,monitor_dimension
-www.hardware-planet.it//monitor type,monitor_weight
-www.hardware-planet.it//product line,number_of_colors
-www.hardware-planet.it//monitor size,monitor_depth
-www.hardware-planet.it//monitor size,monitor_height
-www.hardware-planet.it//monitor size,monitor_width
-www.hardware-planet.it//wall mount,mount_model
-www.hardware-planet.it//monitor size,monitor_dimension_with_stand
-www.hardware-planet.it//plug and play,mount_model
 www.hardware-planet.it//plug  play,mount_model
-www.hardware-planet.it//model name,number_of_colors
-www.hardware-planet.it//brand,number_of_colors
-www.hardware-planet.it//power supply,power_consumption_class
-www.hardware-planet.it//monitor size,monitor_weight
-www.hardware-planet.it//product family,number_of_colors
 www.hardware-planet.it//pivot angle,monitor_weight_with_stand
-www.hardware-planet.it//case colour,mount_model
-www.hardware-planet.it//power consumption,power_consumption_standy
-www.hardware-planet.it//category,number_of_colors
-www.hardware-planet.it//screen type,mount_type
-www.hardware-planet.it//monitor type,mount_type
-www.hardware-planet.it//screen size,monitor_dimension
-www.hardware-planet.it//headphone ports,headphone_port_type
-www.hardware-planet.it//product type,color
-www.hardware-planet.it//screen size,screen_brightness
-www.hardware-planet.it//display colors,mount_model
-www.hardware-planet.it//display type,mount_model
-www.hardware-planet.it//max resolution,power_consumption_max
-www.hardware-planet.it//max. resolution,power_consumption_max
-www.hardware-planet.it//product type,mount_type
-www.hardware-planet.it//product type,screen_type
-www.hardware-planet.it//display colors,monitor_dimension
-www.hardware-planet.it//display type,monitor_dimension
-www.hardware-planet.it//monitor size,screen_size_diagonal
-www.hardware-planet.it//monitor size,screen_size_horizontal
-www.hardware-planet.it//monitor type,monitor_dimension_with_stand
-www.hardware-planet.it//display colors,screen_brightness
-www.hardware-planet.it//display type,monitor_weight
-www.hardware-planet.it//title,brand
-www.hardware-planet.it//in the box,packaging_height
-www.hardware-planet.it//monitor type,monitor_weight_with_stand
-www.hardware-planet.it//size,number_of_colors
-www.hardware-planet.it//monitor size,monitor_depth_with_stand
-www.hardware-planet.it//monitor size,monitor_height_with_stand
-www.hardware-planet.it//monitor size,monitor_width_with_stand
-www.hardware-planet.it//item sort,color
-www.hardware-planet.it//screen type,headphone_port_type
 www.hardware-planet.it//pivot angle,monitor_weight
-www.hardware-planet.it//view angle,monitor_weight_with_stand
-www.hardware-planet.it//item sort,mount_type
-www.hardware-planet.it//monitor size,monitor_weight_with_stand
-www.hardware-planet.it//display colors,monitor_dimension_with_stand
-www.hardware-planet.it//display type,monitor_dimension_with_stand
-www.hardware-planet.it//display colors,brand
-www.hardware-planet.it//brand,mount_model
-www.hardware-planet.it//brand,mount_type
-www.hardware-planet.it//product type,brand
-www.hardware-planet.it//display type,brand
-www.hardware-planet.it//item sort,screen_size_diagonal
-www.hardware-planet.it//screen size,monitor_dimension_with_stand
-www.hardware-planet.it//refresh rate,digital_horizontal_refresh_rate_range
-www.hardware-planet.it//refresh rate,digital_vertical_refresh_rate_range
-www.hardware-planet.it//display type,monitor_weight_with_stand
-www.hardware-planet.it//case colour,headphone_port_type
-www.hardware-planet.it//display colors,mount_type
-www.hardware-planet.it//screen type,monitor_dimension
-www.hardware-planet.it//plug and play,mount_type
 www.hardware-planet.it//plug  play,mount_type
-www.hardware-planet.it//screen size,monitor_depth
-www.hardware-planet.it//screen size,monitor_height
-www.hardware-planet.it//screen size,monitor_width
-www.hardware-planet.it//screen type,monitor_weight
-www.hardware-planet.it//brand,screen_type
-www.hardware-planet.it//format,color
-www.hardware-planet.it//case colour,color
-www.hardware-planet.it//screen type,brand
-www.hardware-planet.it//in the box,packaging_depth
-www.hardware-planet.it//monitor type,brand
-www.imldirect.it//displayport,has_displayport
-www.imldirect.it//response time,response_time
-www.imldirect.it//brand,brand
-www.imldirect.it//color,color
-www.imldirect.it//screen type,screen_type
-www.imldirect.it//speakers,has_speakers
-www.imldirect.it//pixel pitch,pixel_pitch
-www.imldirect.it//bluetooth,bluetooth
 www.imldirect.it//colour,color
+www.imldirect.it//response time,response_time
 www.imldirect.it//mount type,mount_type
+www.imldirect.it//displayport,has_displayport
+www.imldirect.it//speakers,has_speakers
 www.imldirect.it//brand name,brand
 www.imldirect.it//standby power consumption,power_consumption_standy
 www.imldirect.it//standard refresh rate,vertical_refresh_rate_range
-www.imldirect.it//display type,screen_type
 www.imldirect.it//depth with stand,monitor_depth_with_stand
 www.imldirect.it//height with stand,monitor_height_with_stand
 www.imldirect.it//width with stand,monitor_width_with_stand
-www.imldirect.it//monitor type,screen_type
 www.imldirect.it//mount type,mount_model
-www.imldirect.it//power consumption,power_consumption_class
-www.imldirect.it//item sort,screen_type
-www.imldirect.it//hdmi ports,has_hdmi_port
-www.imldirect.it//headphone ports,has_headphone_port
-www.imldirect.it//usb ports,has_usb_port
 www.imldirect.it//colour support,color
 www.imldirect.it//screen size,screen_size_vertical
-www.imldirect.it//case colour,mount_type
-www.imldirect.it//label,brand
-www.imldirect.it//case colour,screen_type
-www.imldirect.it//case colour,number_of_colors
 www.imldirect.it//platform supported,supported_resolution
 www.imldirect.it//height with stand,monitor_dimension_with_stand
 www.imldirect.it//width with stand,monitor_dimension_with_stand
-www.imldirect.it//screen dimensions,monitor_dimension
-www.imldirect.it//display colors,screen_type
 www.imldirect.it//screen surface,screen_type
-www.imldirect.it//refresh rate,horizontal_refresh_rate_range
-www.imldirect.it//refresh rate,vertical_refresh_rate_range
-www.imldirect.it//product type,number_of_colors
-www.imldirect.it//monitor size,monitor_dimension
 www.imldirect.it//product model,number_of_colors
-www.imldirect.it//model name,brand
+www.imldirect.it//product type,number_of_colors
 www.imldirect.it//standard refresh rate,digital_vertical_refresh_rate_range
 www.imldirect.it//package contents,packaging_dimension
 www.imldirect.it//colour support,supported_resolution
-www.imldirect.it//item sort,brand
 www.imldirect.it//headphone,has_headphone_port
 www.imldirect.it//headphone,has_microphone
-www.imldirect.it//in the box,packaging_weight
-www.imldirect.it//item sort,number_of_colors
 www.imldirect.it//height with stand,monitor_width_with_stand
 www.imldirect.it//width with stand,monitor_height_with_stand
 www.imldirect.it//package contents,packaging_weight
 www.imldirect.it//screen surface,screen_size_vertical
+www.imldirect.it//colour,brand
 www.imldirect.it//screen size,screen_size_diagonal
 www.imldirect.it//screen size,screen_size_horizontal
-www.imldirect.it//model,brand
-www.imldirect.it//model,color
-www.imldirect.it//brand,color
-www.imldirect.it//color,brand
-www.imldirect.it//description,brand
-www.imldirect.it//description,color
-www.imldirect.it//view angle,packaging_weight
-www.imldirect.it//monitor size,screen_size_vertical
-www.imldirect.it//colour,brand
 www.imldirect.it//product series,number_of_colors
-www.imldirect.it//wall mount,mount_type
-www.imldirect.it//power consumption,power_consumption_max
-www.imldirect.it//screen dimensions,monitor_dimension_with_stand
-www.imldirect.it//model,mount_model
-www.imldirect.it//category,brand
-www.imldirect.it//category,color
-www.imldirect.it//part number,number_of_colors
-www.imldirect.it//color,number_of_colors
-www.imldirect.it//displayport in,has_displayport
-www.imldirect.it//display type,mount_type
-www.imldirect.it//monitor type,monitor_dimension
 www.imldirect.it//colour,number_of_colors
-www.imldirect.it//monitor type,monitor_weight
 www.imldirect.it//product line,number_of_colors
-www.imldirect.it//monitor size,monitor_depth
-www.imldirect.it//monitor size,monitor_height
-www.imldirect.it//monitor size,monitor_width
 www.imldirect.it//screen surface,screen_brightness
-www.imldirect.it//wall mount,mount_model
 www.imldirect.it//product name,number_of_colors
-www.imldirect.it//monitor size,monitor_dimension_with_stand
-www.imldirect.it//plug and play,mount_model
-www.imldirect.it//plug  play,mount_model
 www.imldirect.it//standby power consumption,power_consumption_class
-www.imldirect.it//model name,number_of_colors
 www.imldirect.it//brand name,number_of_colors
 www.imldirect.it//product model,mount_model
 www.imldirect.it//weight with stand approximate,monitor_weight_with_stand
-www.imldirect.it//brand,number_of_colors
-www.imldirect.it//power supply,power_consumption_class
-www.imldirect.it//monitor size,monitor_weight
 www.imldirect.it//package contents,packaging_depth
 www.imldirect.it//package contents,packaging_height
 www.imldirect.it//platform supported,monitor_weight_with_stand
-www.imldirect.it//product family,number_of_colors
 www.imldirect.it//colour support,number_of_colors
-www.imldirect.it//pivot angle,monitor_weight_with_stand
 www.imldirect.it//adjustable display angle,monitor_weight_with_stand
 www.imldirect.it//depth with stand,monitor_dimension_with_stand
-www.imldirect.it//case colour,mount_model
 www.imldirect.it//screen surface,monitor_dimension
-www.imldirect.it//power consumption,power_consumption_standy
-www.imldirect.it//category,number_of_colors
 www.imldirect.it//standard refresh rate,horizontal_refresh_rate_range
 www.imldirect.it//headphone,has_subwoofer
-www.imldirect.it//screen type,mount_type
-www.imldirect.it//monitor type,mount_type
 www.imldirect.it//depth with stand,monitor_depth
 www.imldirect.it//height with stand,monitor_height
 www.imldirect.it//mount type,screen_type
 www.imldirect.it//width with stand,monitor_width
-www.imldirect.it//screen size,monitor_dimension
-www.imldirect.it//headphone ports,headphone_port_type
-www.imldirect.it//product type,color
 www.imldirect.it//colour support,monitor_dimension_with_stand
 www.imldirect.it//product model,color
+www.imldirect.it//product type,color
+www.imldirect.it//screen size,monitor_dimension
 www.imldirect.it//screen surface,monitor_weight
-www.imldirect.it//screen size,screen_brightness
 www.imldirect.it//screen mode,screen_brightness
-www.imldirect.it//display colors,mount_model
-www.imldirect.it//display type,mount_model
-www.imldirect.it//max resolution,power_consumption_max
-www.imldirect.it//max. resolution,power_consumption_max
+www.imldirect.it//screen size,screen_brightness
 www.imldirect.it//product type,mount_type
 www.imldirect.it//product type,screen_type
-www.imldirect.it//display colors,monitor_dimension
-www.imldirect.it//display type,monitor_dimension
 www.imldirect.it//colour support,mount_model
 www.imldirect.it//colour support,mount_type
 www.imldirect.it//screen surface,monitor_dimension_with_stand
 www.imldirect.it//standard refresh rate,vertical_refresh_rate_max
 www.imldirect.it//product name,brand
-www.imldirect.it//monitor size,screen_size_diagonal
-www.imldirect.it//monitor size,screen_size_horizontal
 www.imldirect.it//screen mode,screen_size_vertical
 www.imldirect.it//swivel angle,monitor_weight_with_stand
 www.imldirect.it//colour support,brand
-www.imldirect.it//monitor type,monitor_dimension_with_stand
-www.imldirect.it//display colors,screen_brightness
-www.imldirect.it//display type,monitor_weight
 www.imldirect.it//screen surface,monitor_weight_with_stand
-www.imldirect.it//title,brand
-www.imldirect.it//in the box,packaging_height
-www.imldirect.it//monitor type,monitor_weight_with_stand
-www.imldirect.it//size,number_of_colors
-www.imldirect.it//monitor size,monitor_depth_with_stand
-www.imldirect.it//monitor size,monitor_height_with_stand
-www.imldirect.it//monitor size,monitor_width_with_stand
-www.imldirect.it//item sort,color
-www.imldirect.it//screen type,headphone_port_type
 www.imldirect.it//depth with stand,monitor_height_with_stand
 www.imldirect.it//depth with stand,monitor_width_with_stand
 www.imldirect.it//height with stand,monitor_depth_with_stand
 www.imldirect.it//width with stand,monitor_depth_with_stand
-www.imldirect.it//pivot angle,monitor_weight
-www.imldirect.it//view angle,monitor_weight_with_stand
-www.imldirect.it//item sort,mount_type
-www.imldirect.it//monitor size,monitor_weight_with_stand
 www.imldirect.it//tilt angle,pixel_pitch
-www.imldirect.it//display colors,monitor_dimension_with_stand
-www.imldirect.it//display type,monitor_dimension_with_stand
-www.imldirect.it//display colors,brand
-www.imldirect.it//brand,mount_model
-www.imldirect.it//brand,mount_type
-www.imldirect.it//product type,brand
-www.imldirect.it//display type,brand
 www.imldirect.it//product model,brand
+www.imldirect.it//product type,brand
 www.imldirect.it//mount type,brand
 www.imldirect.it//adjustable display angle,monitor_weight
 www.imldirect.it//adjustable display height,monitor_height
 www.imldirect.it//adjustable display height,monitor_height_with_stand
 www.imldirect.it//screen surface,screen_size_diagonal
 www.imldirect.it//screen surface,screen_size_horizontal
-www.imldirect.it//item sort,screen_size_diagonal
 www.imldirect.it//offmode power consumption,power_consumption_class
 www.imldirect.it//screen size,monitor_dimension_with_stand
 www.imldirect.it//screen surface,monitor_depth_with_stand
-www.imldirect.it//refresh rate,digital_horizontal_refresh_rate_range
-www.imldirect.it//refresh rate,digital_vertical_refresh_rate_range
-www.imldirect.it//display type,monitor_weight_with_stand
 www.imldirect.it//vertical viewing angle,monitor_weight_with_stand
 www.imldirect.it//tilt angle,monitor_weight_with_stand
-www.imldirect.it//case colour,headphone_port_type
-www.imldirect.it//display colors,mount_type
-www.imldirect.it//screen type,monitor_dimension
 www.imldirect.it//colour support,screen_type
-www.imldirect.it//plug and play,mount_type
-www.imldirect.it//plug  play,mount_type
 www.imldirect.it//display orientation,screen_size_horizontal
 www.imldirect.it//display orientation,screen_size_vertical
 www.imldirect.it//screen surface,monitor_depth
@@ -806,210 +262,98 @@ www.imldirect.it//height with stand,monitor_weight_with_stand
 www.imldirect.it//screen size,monitor_depth
 www.imldirect.it//screen size,monitor_height
 www.imldirect.it//screen size,monitor_width
-www.imldirect.it//screen type,monitor_weight
 www.imldirect.it//standby power consumption,power_consumption_max
-www.imldirect.it//brand,screen_type
-www.imldirect.it//format,color
-www.imldirect.it//case colour,color
-www.imldirect.it//screen type,brand
-www.imldirect.it//in the box,packaging_depth
-www.imldirect.it//monitor type,brand
+www.itenergy.co.uk//colour,color
 www.itenergy.co.uk//displayport,has_displayport
 www.itenergy.co.uk//response time,response_time
-www.itenergy.co.uk//brand,brand
-www.itenergy.co.uk//color,color
-www.itenergy.co.uk//screen type,screen_type
 www.itenergy.co.uk//speakers,has_speakers
-www.itenergy.co.uk//pixel pitch,pixel_pitch
-www.itenergy.co.uk//bluetooth,bluetooth
-www.itenergy.co.uk//colour,color
 www.itenergy.co.uk//mount type,mount_type
 www.itenergy.co.uk//brand name,brand
 www.itenergy.co.uk//standby power consumption,power_consumption_standy
 www.itenergy.co.uk//standard refresh rate,vertical_refresh_rate_range
-www.itenergy.co.uk//display type,screen_type
 www.itenergy.co.uk//depth with stand,monitor_depth_with_stand
 www.itenergy.co.uk//height with stand,monitor_height_with_stand
 www.itenergy.co.uk//width with stand,monitor_width_with_stand
-www.itenergy.co.uk//monitor type,screen_type
 www.itenergy.co.uk//mount type,mount_model
-www.itenergy.co.uk//power consumption,power_consumption_class
-www.itenergy.co.uk//item sort,screen_type
-www.itenergy.co.uk//hdmi ports,has_hdmi_port
-www.itenergy.co.uk//headphone ports,has_headphone_port
-www.itenergy.co.uk//usb ports,has_usb_port
 www.itenergy.co.uk//colour support,color
 www.itenergy.co.uk//screen size,screen_size_vertical
-www.itenergy.co.uk//case colour,mount_type
-www.itenergy.co.uk//label,brand
-www.itenergy.co.uk//case colour,screen_type
-www.itenergy.co.uk//case colour,number_of_colors
 www.itenergy.co.uk//platform supported,supported_resolution
 www.itenergy.co.uk//height with stand,monitor_dimension_with_stand
 www.itenergy.co.uk//width with stand,monitor_dimension_with_stand
-www.itenergy.co.uk//screen dimensions,monitor_dimension
-www.itenergy.co.uk//display colors,screen_type
 www.itenergy.co.uk//screen surface,screen_type
-www.itenergy.co.uk//refresh rate,horizontal_refresh_rate_range
-www.itenergy.co.uk//refresh rate,vertical_refresh_rate_range
-www.itenergy.co.uk//product type,number_of_colors
-www.itenergy.co.uk//monitor size,monitor_dimension
 www.itenergy.co.uk//product model,number_of_colors
-www.itenergy.co.uk//model name,brand
+www.itenergy.co.uk//product type,number_of_colors
 www.itenergy.co.uk//standard refresh rate,digital_vertical_refresh_rate_range
 www.itenergy.co.uk//package contents,packaging_dimension
 www.itenergy.co.uk//colour support,supported_resolution
-www.itenergy.co.uk//item sort,brand
 www.itenergy.co.uk//headphone,has_headphone_port
 www.itenergy.co.uk//headphone,has_microphone
-www.itenergy.co.uk//in the box,packaging_weight
-www.itenergy.co.uk//item sort,number_of_colors
 www.itenergy.co.uk//height with stand,monitor_width_with_stand
 www.itenergy.co.uk//width with stand,monitor_height_with_stand
 www.itenergy.co.uk//package contents,packaging_weight
 www.itenergy.co.uk//screen surface,screen_size_vertical
+www.itenergy.co.uk//colour,brand
 www.itenergy.co.uk//screen size,screen_size_diagonal
 www.itenergy.co.uk//screen size,screen_size_horizontal
-www.itenergy.co.uk//model,brand
-www.itenergy.co.uk//model,color
-www.itenergy.co.uk//brand,color
-www.itenergy.co.uk//color,brand
-www.itenergy.co.uk//description,brand
-www.itenergy.co.uk//description,color
-www.itenergy.co.uk//view angle,packaging_weight
-www.itenergy.co.uk//monitor size,screen_size_vertical
-www.itenergy.co.uk//colour,brand
 www.itenergy.co.uk//product series,number_of_colors
-www.itenergy.co.uk//wall mount,mount_type
-www.itenergy.co.uk//power consumption,power_consumption_max
-www.itenergy.co.uk//screen dimensions,monitor_dimension_with_stand
-www.itenergy.co.uk//model,mount_model
-www.itenergy.co.uk//category,brand
-www.itenergy.co.uk//category,color
-www.itenergy.co.uk//part number,number_of_colors
-www.itenergy.co.uk//color,number_of_colors
-www.itenergy.co.uk//displayport in,has_displayport
-www.itenergy.co.uk//display type,mount_type
-www.itenergy.co.uk//monitor type,monitor_dimension
 www.itenergy.co.uk//colour,number_of_colors
-www.itenergy.co.uk//monitor type,monitor_weight
 www.itenergy.co.uk//product line,number_of_colors
-www.itenergy.co.uk//monitor size,monitor_depth
-www.itenergy.co.uk//monitor size,monitor_height
-www.itenergy.co.uk//monitor size,monitor_width
 www.itenergy.co.uk//screen surface,screen_brightness
-www.itenergy.co.uk//wall mount,mount_model
 www.itenergy.co.uk//product name,number_of_colors
-www.itenergy.co.uk//monitor size,monitor_dimension_with_stand
-www.itenergy.co.uk//plug and play,mount_model
-www.itenergy.co.uk//plug  play,mount_model
 www.itenergy.co.uk//standby power consumption,power_consumption_class
-www.itenergy.co.uk//model name,number_of_colors
 www.itenergy.co.uk//brand name,number_of_colors
 www.itenergy.co.uk//product model,mount_model
 www.itenergy.co.uk//weight with stand approximate,monitor_weight_with_stand
-www.itenergy.co.uk//brand,number_of_colors
-www.itenergy.co.uk//power supply,power_consumption_class
-www.itenergy.co.uk//monitor size,monitor_weight
 www.itenergy.co.uk//package contents,packaging_depth
 www.itenergy.co.uk//package contents,packaging_height
 www.itenergy.co.uk//platform supported,monitor_weight_with_stand
-www.itenergy.co.uk//product family,number_of_colors
 www.itenergy.co.uk//colour support,number_of_colors
-www.itenergy.co.uk//pivot angle,monitor_weight_with_stand
 www.itenergy.co.uk//adjustable display angle,monitor_weight_with_stand
 www.itenergy.co.uk//depth with stand,monitor_dimension_with_stand
-www.itenergy.co.uk//case colour,mount_model
 www.itenergy.co.uk//screen surface,monitor_dimension
-www.itenergy.co.uk//power consumption,power_consumption_standy
-www.itenergy.co.uk//category,number_of_colors
 www.itenergy.co.uk//standard refresh rate,horizontal_refresh_rate_range
 www.itenergy.co.uk//headphone,has_subwoofer
-www.itenergy.co.uk//screen type,mount_type
-www.itenergy.co.uk//monitor type,mount_type
 www.itenergy.co.uk//depth with stand,monitor_depth
 www.itenergy.co.uk//height with stand,monitor_height
-www.itenergy.co.uk//mount type,screen_type
 www.itenergy.co.uk//width with stand,monitor_width
-www.itenergy.co.uk//screen size,monitor_dimension
-www.itenergy.co.uk//headphone ports,headphone_port_type
-www.itenergy.co.uk//product type,color
+www.itenergy.co.uk//mount type,screen_type
 www.itenergy.co.uk//colour support,monitor_dimension_with_stand
 www.itenergy.co.uk//product model,color
+www.itenergy.co.uk//product type,color
+www.itenergy.co.uk//screen size,monitor_dimension
 www.itenergy.co.uk//screen surface,monitor_weight
-www.itenergy.co.uk//screen size,screen_brightness
 www.itenergy.co.uk//screen mode,screen_brightness
-www.itenergy.co.uk//display colors,mount_model
-www.itenergy.co.uk//display type,mount_model
-www.itenergy.co.uk//max resolution,power_consumption_max
-www.itenergy.co.uk//max. resolution,power_consumption_max
+www.itenergy.co.uk//screen size,screen_brightness
 www.itenergy.co.uk//product type,mount_type
 www.itenergy.co.uk//product type,screen_type
-www.itenergy.co.uk//display colors,monitor_dimension
-www.itenergy.co.uk//display type,monitor_dimension
 www.itenergy.co.uk//colour support,mount_model
 www.itenergy.co.uk//colour support,mount_type
 www.itenergy.co.uk//screen surface,monitor_dimension_with_stand
 www.itenergy.co.uk//standard refresh rate,vertical_refresh_rate_max
 www.itenergy.co.uk//product name,brand
-www.itenergy.co.uk//monitor size,screen_size_diagonal
-www.itenergy.co.uk//monitor size,screen_size_horizontal
 www.itenergy.co.uk//screen mode,screen_size_vertical
 www.itenergy.co.uk//swivel angle,monitor_weight_with_stand
 www.itenergy.co.uk//colour support,brand
-www.itenergy.co.uk//monitor type,monitor_dimension_with_stand
-www.itenergy.co.uk//display colors,screen_brightness
-www.itenergy.co.uk//display type,monitor_weight
 www.itenergy.co.uk//screen surface,monitor_weight_with_stand
-www.itenergy.co.uk//title,brand
-www.itenergy.co.uk//in the box,packaging_height
-www.itenergy.co.uk//monitor type,monitor_weight_with_stand
-www.itenergy.co.uk//size,number_of_colors
-www.itenergy.co.uk//monitor size,monitor_depth_with_stand
-www.itenergy.co.uk//monitor size,monitor_height_with_stand
-www.itenergy.co.uk//monitor size,monitor_width_with_stand
-www.itenergy.co.uk//item sort,color
-www.itenergy.co.uk//screen type,headphone_port_type
 www.itenergy.co.uk//depth with stand,monitor_height_with_stand
 www.itenergy.co.uk//depth with stand,monitor_width_with_stand
 www.itenergy.co.uk//height with stand,monitor_depth_with_stand
 www.itenergy.co.uk//width with stand,monitor_depth_with_stand
-www.itenergy.co.uk//pivot angle,monitor_weight
-www.itenergy.co.uk//view angle,monitor_weight_with_stand
-www.itenergy.co.uk//item sort,mount_type
-www.itenergy.co.uk//monitor size,monitor_weight_with_stand
 www.itenergy.co.uk//tilt angle,pixel_pitch
-www.itenergy.co.uk//display colors,monitor_dimension_with_stand
-www.itenergy.co.uk//display type,monitor_dimension_with_stand
-www.itenergy.co.uk//display colors,brand
-www.itenergy.co.uk//brand,mount_model
-www.itenergy.co.uk//brand,mount_type
-www.itenergy.co.uk//product type,brand
-www.itenergy.co.uk//display type,brand
 www.itenergy.co.uk//product model,brand
+www.itenergy.co.uk//product type,brand
 www.itenergy.co.uk//mount type,brand
 www.itenergy.co.uk//adjustable display angle,monitor_weight
 www.itenergy.co.uk//adjustable display height,monitor_height
 www.itenergy.co.uk//adjustable display height,monitor_height_with_stand
 www.itenergy.co.uk//screen surface,screen_size_diagonal
 www.itenergy.co.uk//screen surface,screen_size_horizontal
-www.itenergy.co.uk//item sort,screen_size_diagonal
 www.itenergy.co.uk//offmode power consumption,power_consumption_class
 www.itenergy.co.uk//screen size,monitor_dimension_with_stand
 www.itenergy.co.uk//screen surface,monitor_depth_with_stand
-www.itenergy.co.uk//refresh rate,digital_horizontal_refresh_rate_range
-www.itenergy.co.uk//refresh rate,digital_vertical_refresh_rate_range
-www.itenergy.co.uk//display type,monitor_weight_with_stand
 www.itenergy.co.uk//vertical viewing angle,monitor_weight_with_stand
 www.itenergy.co.uk//tilt angle,monitor_weight_with_stand
-www.itenergy.co.uk//case colour,headphone_port_type
-www.itenergy.co.uk//display colors,mount_type
-www.itenergy.co.uk//screen type,monitor_dimension
 www.itenergy.co.uk//colour support,screen_type
-www.itenergy.co.uk//plug and play,mount_type
-www.itenergy.co.uk//plug  play,mount_type
-www.itenergy.co.uk//display orientation,screen_size_horizontal
-www.itenergy.co.uk//display orientation,screen_size_vertical
 www.itenergy.co.uk//screen surface,monitor_depth
 www.itenergy.co.uk//operating power consumption,power_consumption_class
 www.itenergy.co.uk//depth with stand,monitor_weight_with_stand
@@ -1017,208 +361,98 @@ www.itenergy.co.uk//height with stand,monitor_weight_with_stand
 www.itenergy.co.uk//screen size,monitor_depth
 www.itenergy.co.uk//screen size,monitor_height
 www.itenergy.co.uk//screen size,monitor_width
-www.itenergy.co.uk//screen type,monitor_weight
 www.itenergy.co.uk//standby power consumption,power_consumption_max
-www.itenergy.co.uk//brand,screen_type
-www.itenergy.co.uk//format,color
-www.itenergy.co.uk//case colour,color
-www.itenergy.co.uk//screen type,brand
-www.itenergy.co.uk//in the box,packaging_depth
-www.itenergy.co.uk//monitor type,brand
+www.jrlinton.co.uk//colour,color
 www.jrlinton.co.uk//displayport,has_displayport
 www.jrlinton.co.uk//response time,response_time
-www.jrlinton.co.uk//brand,brand
-www.jrlinton.co.uk//color,color
-www.jrlinton.co.uk//screen type,screen_type
-www.jrlinton.co.uk//speakers,has_speakers
-www.jrlinton.co.uk//pixel pitch,pixel_pitch
-www.jrlinton.co.uk//bluetooth,bluetooth
-www.jrlinton.co.uk//colour,color
 www.jrlinton.co.uk//mount type,mount_type
+www.jrlinton.co.uk//speakers,has_speakers
 www.jrlinton.co.uk//brand name,brand
 www.jrlinton.co.uk//standby power consumption,power_consumption_standy
 www.jrlinton.co.uk//standard refresh rate,vertical_refresh_rate_range
-www.jrlinton.co.uk//display type,screen_type
 www.jrlinton.co.uk//depth with stand,monitor_depth_with_stand
 www.jrlinton.co.uk//height with stand,monitor_height_with_stand
 www.jrlinton.co.uk//width with stand,monitor_width_with_stand
-www.jrlinton.co.uk//monitor type,screen_type
 www.jrlinton.co.uk//mount type,mount_model
-www.jrlinton.co.uk//power consumption,power_consumption_class
-www.jrlinton.co.uk//item sort,screen_type
-www.jrlinton.co.uk//hdmi ports,has_hdmi_port
-www.jrlinton.co.uk//headphone ports,has_headphone_port
-www.jrlinton.co.uk//usb ports,has_usb_port
 www.jrlinton.co.uk//colour support,color
 www.jrlinton.co.uk//screen size,screen_size_vertical
-www.jrlinton.co.uk//case colour,mount_type
-www.jrlinton.co.uk//label,brand
-www.jrlinton.co.uk//case colour,screen_type
-www.jrlinton.co.uk//case colour,number_of_colors
 www.jrlinton.co.uk//platform supported,supported_resolution
 www.jrlinton.co.uk//height with stand,monitor_dimension_with_stand
 www.jrlinton.co.uk//width with stand,monitor_dimension_with_stand
-www.jrlinton.co.uk//screen dimensions,monitor_dimension
-www.jrlinton.co.uk//display colors,screen_type
 www.jrlinton.co.uk//screen surface,screen_type
-www.jrlinton.co.uk//refresh rate,horizontal_refresh_rate_range
-www.jrlinton.co.uk//refresh rate,vertical_refresh_rate_range
-www.jrlinton.co.uk//product type,number_of_colors
-www.jrlinton.co.uk//monitor size,monitor_dimension
 www.jrlinton.co.uk//product model,number_of_colors
-www.jrlinton.co.uk//model name,brand
+www.jrlinton.co.uk//product type,number_of_colors
 www.jrlinton.co.uk//standard refresh rate,digital_vertical_refresh_rate_range
 www.jrlinton.co.uk//package contents,packaging_dimension
 www.jrlinton.co.uk//colour support,supported_resolution
-www.jrlinton.co.uk//item sort,brand
 www.jrlinton.co.uk//headphone,has_headphone_port
 www.jrlinton.co.uk//headphone,has_microphone
-www.jrlinton.co.uk//in the box,packaging_weight
-www.jrlinton.co.uk//item sort,number_of_colors
 www.jrlinton.co.uk//height with stand,monitor_width_with_stand
 www.jrlinton.co.uk//width with stand,monitor_height_with_stand
 www.jrlinton.co.uk//package contents,packaging_weight
 www.jrlinton.co.uk//screen surface,screen_size_vertical
+www.jrlinton.co.uk//colour,brand
 www.jrlinton.co.uk//screen size,screen_size_diagonal
 www.jrlinton.co.uk//screen size,screen_size_horizontal
-www.jrlinton.co.uk//model,brand
-www.jrlinton.co.uk//model,color
-www.jrlinton.co.uk//brand,color
-www.jrlinton.co.uk//color,brand
-www.jrlinton.co.uk//description,brand
-www.jrlinton.co.uk//description,color
-www.jrlinton.co.uk//view angle,packaging_weight
-www.jrlinton.co.uk//monitor size,screen_size_vertical
-www.jrlinton.co.uk//colour,brand
 www.jrlinton.co.uk//product series,number_of_colors
-www.jrlinton.co.uk//wall mount,mount_type
-www.jrlinton.co.uk//power consumption,power_consumption_max
-www.jrlinton.co.uk//screen dimensions,monitor_dimension_with_stand
-www.jrlinton.co.uk//model,mount_model
-www.jrlinton.co.uk//category,brand
-www.jrlinton.co.uk//category,color
-www.jrlinton.co.uk//part number,number_of_colors
-www.jrlinton.co.uk//color,number_of_colors
-www.jrlinton.co.uk//displayport in,has_displayport
-www.jrlinton.co.uk//display type,mount_type
-www.jrlinton.co.uk//monitor type,monitor_dimension
 www.jrlinton.co.uk//colour,number_of_colors
-www.jrlinton.co.uk//monitor type,monitor_weight
 www.jrlinton.co.uk//product line,number_of_colors
-www.jrlinton.co.uk//monitor size,monitor_depth
-www.jrlinton.co.uk//monitor size,monitor_height
-www.jrlinton.co.uk//monitor size,monitor_width
 www.jrlinton.co.uk//screen surface,screen_brightness
-www.jrlinton.co.uk//wall mount,mount_model
 www.jrlinton.co.uk//product name,number_of_colors
-www.jrlinton.co.uk//monitor size,monitor_dimension_with_stand
-www.jrlinton.co.uk//plug and play,mount_model
-www.jrlinton.co.uk//plug  play,mount_model
 www.jrlinton.co.uk//standby power consumption,power_consumption_class
-www.jrlinton.co.uk//model name,number_of_colors
 www.jrlinton.co.uk//brand name,number_of_colors
 www.jrlinton.co.uk//product model,mount_model
 www.jrlinton.co.uk//weight with stand approximate,monitor_weight_with_stand
-www.jrlinton.co.uk//brand,number_of_colors
-www.jrlinton.co.uk//power supply,power_consumption_class
-www.jrlinton.co.uk//monitor size,monitor_weight
 www.jrlinton.co.uk//package contents,packaging_depth
 www.jrlinton.co.uk//package contents,packaging_height
 www.jrlinton.co.uk//platform supported,monitor_weight_with_stand
-www.jrlinton.co.uk//product family,number_of_colors
 www.jrlinton.co.uk//colour support,number_of_colors
-www.jrlinton.co.uk//pivot angle,monitor_weight_with_stand
 www.jrlinton.co.uk//adjustable display angle,monitor_weight_with_stand
 www.jrlinton.co.uk//depth with stand,monitor_dimension_with_stand
-www.jrlinton.co.uk//case colour,mount_model
 www.jrlinton.co.uk//screen surface,monitor_dimension
-www.jrlinton.co.uk//power consumption,power_consumption_standy
-www.jrlinton.co.uk//category,number_of_colors
 www.jrlinton.co.uk//standard refresh rate,horizontal_refresh_rate_range
 www.jrlinton.co.uk//headphone,has_subwoofer
-www.jrlinton.co.uk//screen type,mount_type
-www.jrlinton.co.uk//monitor type,mount_type
 www.jrlinton.co.uk//depth with stand,monitor_depth
 www.jrlinton.co.uk//height with stand,monitor_height
-www.jrlinton.co.uk//mount type,screen_type
 www.jrlinton.co.uk//width with stand,monitor_width
-www.jrlinton.co.uk//screen size,monitor_dimension
-www.jrlinton.co.uk//headphone ports,headphone_port_type
-www.jrlinton.co.uk//product type,color
-www.jrlinton.co.uk//colour support,monitor_dimension_with_stand
+www.jrlinton.co.uk//mount type,screen_type
 www.jrlinton.co.uk//product model,color
+www.jrlinton.co.uk//product type,color
+www.jrlinton.co.uk//screen size,monitor_dimension
+www.jrlinton.co.uk//colour support,monitor_dimension_with_stand
 www.jrlinton.co.uk//screen surface,monitor_weight
-www.jrlinton.co.uk//screen size,screen_brightness
 www.jrlinton.co.uk//screen mode,screen_brightness
-www.jrlinton.co.uk//display colors,mount_model
-www.jrlinton.co.uk//display type,mount_model
-www.jrlinton.co.uk//max resolution,power_consumption_max
-www.jrlinton.co.uk//max. resolution,power_consumption_max
+www.jrlinton.co.uk//screen size,screen_brightness
 www.jrlinton.co.uk//product type,mount_type
 www.jrlinton.co.uk//product type,screen_type
-www.jrlinton.co.uk//display colors,monitor_dimension
-www.jrlinton.co.uk//display type,monitor_dimension
 www.jrlinton.co.uk//colour support,mount_model
 www.jrlinton.co.uk//colour support,mount_type
 www.jrlinton.co.uk//screen surface,monitor_dimension_with_stand
 www.jrlinton.co.uk//standard refresh rate,vertical_refresh_rate_max
 www.jrlinton.co.uk//product name,brand
-www.jrlinton.co.uk//monitor size,screen_size_diagonal
-www.jrlinton.co.uk//monitor size,screen_size_horizontal
 www.jrlinton.co.uk//screen mode,screen_size_vertical
 www.jrlinton.co.uk//swivel angle,monitor_weight_with_stand
 www.jrlinton.co.uk//colour support,brand
-www.jrlinton.co.uk//monitor type,monitor_dimension_with_stand
-www.jrlinton.co.uk//display colors,screen_brightness
-www.jrlinton.co.uk//display type,monitor_weight
 www.jrlinton.co.uk//screen surface,monitor_weight_with_stand
-www.jrlinton.co.uk//title,brand
-www.jrlinton.co.uk//in the box,packaging_height
-www.jrlinton.co.uk//monitor type,monitor_weight_with_stand
-www.jrlinton.co.uk//size,number_of_colors
-www.jrlinton.co.uk//monitor size,monitor_depth_with_stand
-www.jrlinton.co.uk//monitor size,monitor_height_with_stand
-www.jrlinton.co.uk//monitor size,monitor_width_with_stand
-www.jrlinton.co.uk//item sort,color
-www.jrlinton.co.uk//screen type,headphone_port_type
 www.jrlinton.co.uk//depth with stand,monitor_height_with_stand
 www.jrlinton.co.uk//depth with stand,monitor_width_with_stand
 www.jrlinton.co.uk//height with stand,monitor_depth_with_stand
 www.jrlinton.co.uk//width with stand,monitor_depth_with_stand
-www.jrlinton.co.uk//pivot angle,monitor_weight
-www.jrlinton.co.uk//view angle,monitor_weight_with_stand
-www.jrlinton.co.uk//item sort,mount_type
-www.jrlinton.co.uk//monitor size,monitor_weight_with_stand
 www.jrlinton.co.uk//tilt angle,pixel_pitch
-www.jrlinton.co.uk//display colors,monitor_dimension_with_stand
-www.jrlinton.co.uk//display type,monitor_dimension_with_stand
-www.jrlinton.co.uk//display colors,brand
-www.jrlinton.co.uk//brand,mount_model
-www.jrlinton.co.uk//brand,mount_type
-www.jrlinton.co.uk//product type,brand
-www.jrlinton.co.uk//display type,brand
 www.jrlinton.co.uk//product model,brand
+www.jrlinton.co.uk//product type,brand
 www.jrlinton.co.uk//mount type,brand
 www.jrlinton.co.uk//adjustable display angle,monitor_weight
 www.jrlinton.co.uk//adjustable display height,monitor_height
 www.jrlinton.co.uk//adjustable display height,monitor_height_with_stand
 www.jrlinton.co.uk//screen surface,screen_size_diagonal
 www.jrlinton.co.uk//screen surface,screen_size_horizontal
-www.jrlinton.co.uk//item sort,screen_size_diagonal
 www.jrlinton.co.uk//offmode power consumption,power_consumption_class
 www.jrlinton.co.uk//screen size,monitor_dimension_with_stand
 www.jrlinton.co.uk//screen surface,monitor_depth_with_stand
-www.jrlinton.co.uk//refresh rate,digital_horizontal_refresh_rate_range
-www.jrlinton.co.uk//refresh rate,digital_vertical_refresh_rate_range
-www.jrlinton.co.uk//display type,monitor_weight_with_stand
 www.jrlinton.co.uk//vertical viewing angle,monitor_weight_with_stand
 www.jrlinton.co.uk//tilt angle,monitor_weight_with_stand
-www.jrlinton.co.uk//case colour,headphone_port_type
-www.jrlinton.co.uk//display colors,mount_type
-www.jrlinton.co.uk//screen type,monitor_dimension
 www.jrlinton.co.uk//colour support,screen_type
-www.jrlinton.co.uk//plug and play,mount_type
-www.jrlinton.co.uk//plug  play,mount_type
 www.jrlinton.co.uk//display orientation,screen_size_horizontal
 www.jrlinton.co.uk//display orientation,screen_size_vertical
 www.jrlinton.co.uk//screen surface,monitor_depth
@@ -1228,208 +462,98 @@ www.jrlinton.co.uk//height with stand,monitor_weight_with_stand
 www.jrlinton.co.uk//screen size,monitor_depth
 www.jrlinton.co.uk//screen size,monitor_height
 www.jrlinton.co.uk//screen size,monitor_width
-www.jrlinton.co.uk//screen type,monitor_weight
 www.jrlinton.co.uk//standby power consumption,power_consumption_max
-www.jrlinton.co.uk//brand,screen_type
-www.jrlinton.co.uk//format,color
-www.jrlinton.co.uk//case colour,color
-www.jrlinton.co.uk//screen type,brand
-www.jrlinton.co.uk//in the box,packaging_depth
-www.jrlinton.co.uk//monitor type,brand
-www.kingsfieldcomputers.co.uk//displayport,has_displayport
 www.kingsfieldcomputers.co.uk//response time,response_time
-www.kingsfieldcomputers.co.uk//brand,brand
-www.kingsfieldcomputers.co.uk//color,color
-www.kingsfieldcomputers.co.uk//screen type,screen_type
 www.kingsfieldcomputers.co.uk//speakers,has_speakers
-www.kingsfieldcomputers.co.uk//pixel pitch,pixel_pitch
-www.kingsfieldcomputers.co.uk//bluetooth,bluetooth
 www.kingsfieldcomputers.co.uk//colour,color
 www.kingsfieldcomputers.co.uk//mount type,mount_type
+www.kingsfieldcomputers.co.uk//displayport,has_displayport
 www.kingsfieldcomputers.co.uk//brand name,brand
 www.kingsfieldcomputers.co.uk//standby power consumption,power_consumption_standy
 www.kingsfieldcomputers.co.uk//standard refresh rate,vertical_refresh_rate_range
-www.kingsfieldcomputers.co.uk//display type,screen_type
 www.kingsfieldcomputers.co.uk//depth with stand,monitor_depth_with_stand
 www.kingsfieldcomputers.co.uk//height with stand,monitor_height_with_stand
 www.kingsfieldcomputers.co.uk//width with stand,monitor_width_with_stand
-www.kingsfieldcomputers.co.uk//monitor type,screen_type
 www.kingsfieldcomputers.co.uk//mount type,mount_model
-www.kingsfieldcomputers.co.uk//power consumption,power_consumption_class
-www.kingsfieldcomputers.co.uk//item sort,screen_type
-www.kingsfieldcomputers.co.uk//hdmi ports,has_hdmi_port
-www.kingsfieldcomputers.co.uk//headphone ports,has_headphone_port
-www.kingsfieldcomputers.co.uk//usb ports,has_usb_port
 www.kingsfieldcomputers.co.uk//colour support,color
 www.kingsfieldcomputers.co.uk//screen size,screen_size_vertical
-www.kingsfieldcomputers.co.uk//case colour,mount_type
-www.kingsfieldcomputers.co.uk//label,brand
-www.kingsfieldcomputers.co.uk//case colour,screen_type
-www.kingsfieldcomputers.co.uk//case colour,number_of_colors
 www.kingsfieldcomputers.co.uk//platform supported,supported_resolution
 www.kingsfieldcomputers.co.uk//height with stand,monitor_dimension_with_stand
 www.kingsfieldcomputers.co.uk//width with stand,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//screen dimensions,monitor_dimension
-www.kingsfieldcomputers.co.uk//display colors,screen_type
 www.kingsfieldcomputers.co.uk//screen surface,screen_type
-www.kingsfieldcomputers.co.uk//refresh rate,horizontal_refresh_rate_range
-www.kingsfieldcomputers.co.uk//refresh rate,vertical_refresh_rate_range
 www.kingsfieldcomputers.co.uk//product type,number_of_colors
-www.kingsfieldcomputers.co.uk//monitor size,monitor_dimension
 www.kingsfieldcomputers.co.uk//product model,number_of_colors
-www.kingsfieldcomputers.co.uk//model name,brand
 www.kingsfieldcomputers.co.uk//standard refresh rate,digital_vertical_refresh_rate_range
 www.kingsfieldcomputers.co.uk//package contents,packaging_dimension
 www.kingsfieldcomputers.co.uk//colour support,supported_resolution
-www.kingsfieldcomputers.co.uk//item sort,brand
 www.kingsfieldcomputers.co.uk//headphone,has_headphone_port
 www.kingsfieldcomputers.co.uk//headphone,has_microphone
-www.kingsfieldcomputers.co.uk//in the box,packaging_weight
-www.kingsfieldcomputers.co.uk//item sort,number_of_colors
 www.kingsfieldcomputers.co.uk//height with stand,monitor_width_with_stand
 www.kingsfieldcomputers.co.uk//width with stand,monitor_height_with_stand
 www.kingsfieldcomputers.co.uk//package contents,packaging_weight
 www.kingsfieldcomputers.co.uk//screen surface,screen_size_vertical
 www.kingsfieldcomputers.co.uk//screen size,screen_size_diagonal
 www.kingsfieldcomputers.co.uk//screen size,screen_size_horizontal
-www.kingsfieldcomputers.co.uk//model,brand
-www.kingsfieldcomputers.co.uk//model,color
-www.kingsfieldcomputers.co.uk//brand,color
-www.kingsfieldcomputers.co.uk//color,brand
-www.kingsfieldcomputers.co.uk//description,brand
-www.kingsfieldcomputers.co.uk//description,color
-www.kingsfieldcomputers.co.uk//view angle,packaging_weight
-www.kingsfieldcomputers.co.uk//monitor size,screen_size_vertical
 www.kingsfieldcomputers.co.uk//colour,brand
 www.kingsfieldcomputers.co.uk//product series,number_of_colors
-www.kingsfieldcomputers.co.uk//wall mount,mount_type
-www.kingsfieldcomputers.co.uk//power consumption,power_consumption_max
-www.kingsfieldcomputers.co.uk//screen dimensions,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//model,mount_model
-www.kingsfieldcomputers.co.uk//category,brand
-www.kingsfieldcomputers.co.uk//category,color
-www.kingsfieldcomputers.co.uk//part number,number_of_colors
-www.kingsfieldcomputers.co.uk//color,number_of_colors
-www.kingsfieldcomputers.co.uk//displayport in,has_displayport
-www.kingsfieldcomputers.co.uk//display type,mount_type
-www.kingsfieldcomputers.co.uk//monitor type,monitor_dimension
 www.kingsfieldcomputers.co.uk//colour,number_of_colors
-www.kingsfieldcomputers.co.uk//monitor type,monitor_weight
 www.kingsfieldcomputers.co.uk//product line,number_of_colors
-www.kingsfieldcomputers.co.uk//monitor size,monitor_depth
-www.kingsfieldcomputers.co.uk//monitor size,monitor_height
-www.kingsfieldcomputers.co.uk//monitor size,monitor_width
 www.kingsfieldcomputers.co.uk//screen surface,screen_brightness
-www.kingsfieldcomputers.co.uk//wall mount,mount_model
 www.kingsfieldcomputers.co.uk//product name,number_of_colors
-www.kingsfieldcomputers.co.uk//monitor size,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//plug and play,mount_model
-www.kingsfieldcomputers.co.uk//plug  play,mount_model
 www.kingsfieldcomputers.co.uk//standby power consumption,power_consumption_class
-www.kingsfieldcomputers.co.uk//model name,number_of_colors
 www.kingsfieldcomputers.co.uk//brand name,number_of_colors
 www.kingsfieldcomputers.co.uk//product model,mount_model
 www.kingsfieldcomputers.co.uk//weight with stand approximate,monitor_weight_with_stand
-www.kingsfieldcomputers.co.uk//brand,number_of_colors
-www.kingsfieldcomputers.co.uk//power supply,power_consumption_class
-www.kingsfieldcomputers.co.uk//monitor size,monitor_weight
 www.kingsfieldcomputers.co.uk//package contents,packaging_depth
 www.kingsfieldcomputers.co.uk//package contents,packaging_height
 www.kingsfieldcomputers.co.uk//platform supported,monitor_weight_with_stand
-www.kingsfieldcomputers.co.uk//product family,number_of_colors
 www.kingsfieldcomputers.co.uk//colour support,number_of_colors
-www.kingsfieldcomputers.co.uk//pivot angle,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//adjustable display angle,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//depth with stand,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//case colour,mount_model
 www.kingsfieldcomputers.co.uk//screen surface,monitor_dimension
-www.kingsfieldcomputers.co.uk//power consumption,power_consumption_standy
-www.kingsfieldcomputers.co.uk//category,number_of_colors
 www.kingsfieldcomputers.co.uk//standard refresh rate,horizontal_refresh_rate_range
 www.kingsfieldcomputers.co.uk//headphone,has_subwoofer
-www.kingsfieldcomputers.co.uk//screen type,mount_type
-www.kingsfieldcomputers.co.uk//monitor type,mount_type
 www.kingsfieldcomputers.co.uk//depth with stand,monitor_depth
 www.kingsfieldcomputers.co.uk//height with stand,monitor_height
 www.kingsfieldcomputers.co.uk//mount type,screen_type
 www.kingsfieldcomputers.co.uk//width with stand,monitor_width
-www.kingsfieldcomputers.co.uk//screen size,monitor_dimension
-www.kingsfieldcomputers.co.uk//headphone ports,headphone_port_type
-www.kingsfieldcomputers.co.uk//product type,color
 www.kingsfieldcomputers.co.uk//colour support,monitor_dimension_with_stand
+www.kingsfieldcomputers.co.uk//product type,color
+www.kingsfieldcomputers.co.uk//screen size,monitor_dimension
 www.kingsfieldcomputers.co.uk//product model,color
 www.kingsfieldcomputers.co.uk//screen surface,monitor_weight
-www.kingsfieldcomputers.co.uk//screen size,screen_brightness
 www.kingsfieldcomputers.co.uk//screen mode,screen_brightness
-www.kingsfieldcomputers.co.uk//display colors,mount_model
-www.kingsfieldcomputers.co.uk//display type,mount_model
-www.kingsfieldcomputers.co.uk//max resolution,power_consumption_max
-www.kingsfieldcomputers.co.uk//max. resolution,power_consumption_max
+www.kingsfieldcomputers.co.uk//screen size,screen_brightness
 www.kingsfieldcomputers.co.uk//product type,mount_type
 www.kingsfieldcomputers.co.uk//product type,screen_type
-www.kingsfieldcomputers.co.uk//display colors,monitor_dimension
-www.kingsfieldcomputers.co.uk//display type,monitor_dimension
 www.kingsfieldcomputers.co.uk//colour support,mount_model
 www.kingsfieldcomputers.co.uk//colour support,mount_type
 www.kingsfieldcomputers.co.uk//screen surface,monitor_dimension_with_stand
 www.kingsfieldcomputers.co.uk//standard refresh rate,vertical_refresh_rate_max
 www.kingsfieldcomputers.co.uk//product name,brand
-www.kingsfieldcomputers.co.uk//monitor size,screen_size_diagonal
-www.kingsfieldcomputers.co.uk//monitor size,screen_size_horizontal
 www.kingsfieldcomputers.co.uk//screen mode,screen_size_vertical
 www.kingsfieldcomputers.co.uk//swivel angle,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//colour support,brand
-www.kingsfieldcomputers.co.uk//monitor type,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//display colors,screen_brightness
-www.kingsfieldcomputers.co.uk//display type,monitor_weight
 www.kingsfieldcomputers.co.uk//screen surface,monitor_weight_with_stand
-www.kingsfieldcomputers.co.uk//title,brand
-www.kingsfieldcomputers.co.uk//in the box,packaging_height
-www.kingsfieldcomputers.co.uk//monitor type,monitor_weight_with_stand
-www.kingsfieldcomputers.co.uk//size,number_of_colors
-www.kingsfieldcomputers.co.uk//monitor size,monitor_depth_with_stand
-www.kingsfieldcomputers.co.uk//monitor size,monitor_height_with_stand
-www.kingsfieldcomputers.co.uk//monitor size,monitor_width_with_stand
-www.kingsfieldcomputers.co.uk//item sort,color
-www.kingsfieldcomputers.co.uk//screen type,headphone_port_type
 www.kingsfieldcomputers.co.uk//depth with stand,monitor_height_with_stand
 www.kingsfieldcomputers.co.uk//depth with stand,monitor_width_with_stand
 www.kingsfieldcomputers.co.uk//height with stand,monitor_depth_with_stand
 www.kingsfieldcomputers.co.uk//width with stand,monitor_depth_with_stand
-www.kingsfieldcomputers.co.uk//pivot angle,monitor_weight
-www.kingsfieldcomputers.co.uk//view angle,monitor_weight_with_stand
-www.kingsfieldcomputers.co.uk//item sort,mount_type
-www.kingsfieldcomputers.co.uk//monitor size,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//tilt angle,pixel_pitch
-www.kingsfieldcomputers.co.uk//display colors,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//display type,monitor_dimension_with_stand
-www.kingsfieldcomputers.co.uk//display colors,brand
-www.kingsfieldcomputers.co.uk//brand,mount_model
-www.kingsfieldcomputers.co.uk//brand,mount_type
 www.kingsfieldcomputers.co.uk//product type,brand
-www.kingsfieldcomputers.co.uk//display type,brand
-www.kingsfieldcomputers.co.uk//product model,brand
 www.kingsfieldcomputers.co.uk//mount type,brand
+www.kingsfieldcomputers.co.uk//product model,brand
 www.kingsfieldcomputers.co.uk//adjustable display angle,monitor_weight
 www.kingsfieldcomputers.co.uk//adjustable display height,monitor_height
 www.kingsfieldcomputers.co.uk//adjustable display height,monitor_height_with_stand
 www.kingsfieldcomputers.co.uk//screen surface,screen_size_diagonal
 www.kingsfieldcomputers.co.uk//screen surface,screen_size_horizontal
-www.kingsfieldcomputers.co.uk//item sort,screen_size_diagonal
 www.kingsfieldcomputers.co.uk//offmode power consumption,power_consumption_class
 www.kingsfieldcomputers.co.uk//screen size,monitor_dimension_with_stand
 www.kingsfieldcomputers.co.uk//screen surface,monitor_depth_with_stand
-www.kingsfieldcomputers.co.uk//refresh rate,digital_horizontal_refresh_rate_range
-www.kingsfieldcomputers.co.uk//refresh rate,digital_vertical_refresh_rate_range
-www.kingsfieldcomputers.co.uk//display type,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//vertical viewing angle,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//tilt angle,monitor_weight_with_stand
-www.kingsfieldcomputers.co.uk//case colour,headphone_port_type
-www.kingsfieldcomputers.co.uk//display colors,mount_type
-www.kingsfieldcomputers.co.uk//screen type,monitor_dimension
 www.kingsfieldcomputers.co.uk//colour support,screen_type
-www.kingsfieldcomputers.co.uk//plug and play,mount_type
-www.kingsfieldcomputers.co.uk//plug  play,mount_type
 www.kingsfieldcomputers.co.uk//display orientation,screen_size_horizontal
 www.kingsfieldcomputers.co.uk//display orientation,screen_size_vertical
 www.kingsfieldcomputers.co.uk//screen surface,monitor_depth
@@ -1439,27 +563,13 @@ www.kingsfieldcomputers.co.uk//height with stand,monitor_weight_with_stand
 www.kingsfieldcomputers.co.uk//screen size,monitor_depth
 www.kingsfieldcomputers.co.uk//screen size,monitor_height
 www.kingsfieldcomputers.co.uk//screen size,monitor_width
-www.kingsfieldcomputers.co.uk//screen type,monitor_weight
 www.kingsfieldcomputers.co.uk//standby power consumption,power_consumption_max
-www.kingsfieldcomputers.co.uk//brand,screen_type
-www.kingsfieldcomputers.co.uk//format,color
-www.kingsfieldcomputers.co.uk//case colour,color
-www.kingsfieldcomputers.co.uk//screen type,brand
-www.kingsfieldcomputers.co.uk//in the box,packaging_depth
-www.kingsfieldcomputers.co.uk//monitor type,brand
-www.makingbuyingeasy.co.uk//displayport,has_displayport
-www.makingbuyingeasy.co.uk//response time,response_time
-www.makingbuyingeasy.co.uk//brand,brand
-www.makingbuyingeasy.co.uk//color,color
-www.makingbuyingeasy.co.uk//screen type,screen_type
-www.makingbuyingeasy.co.uk//speakers,has_speakers
-www.makingbuyingeasy.co.uk//pixel pitch,pixel_pitch
 www.makingbuyingeasy.co.uk//bluetooth,bluetooth
-www.makingbuyingeasy.co.uk//colour,color
-www.makingbuyingeasy.co.uk//mount type,mount_type
 www.makingbuyingeasy.co.uk//contrast ratio dynamic,contrast_ratio_dynamic
 www.makingbuyingeasy.co.uk//hd type,hd_type
 www.makingbuyingeasy.co.uk//input frequency,input_frequency
+www.makingbuyingeasy.co.uk//pixel pitch,pixel_pitch
+www.makingbuyingeasy.co.uk//response time,response_time
 www.makingbuyingeasy.co.uk//dvi port,has_dvi_port
 www.makingbuyingeasy.co.uk//packaging depth,packaging_depth
 www.makingbuyingeasy.co.uk//packaging height,packaging_height
@@ -1469,12 +579,9 @@ www.makingbuyingeasy.co.uk//full hd,has_full_hd
 www.makingbuyingeasy.co.uk//wifi,wifi
 www.makingbuyingeasy.co.uk//operating altitude,operating_working_altitude
 www.makingbuyingeasy.co.uk//power consumption max,power_consumption_max
-www.makingbuyingeasy.co.uk//brand name,brand
-www.makingbuyingeasy.co.uk//standby power consumption,power_consumption_standy
 www.makingbuyingeasy.co.uk//power consumption standby,power_consumption_standy
-www.makingbuyingeasy.co.uk//standard refresh rate,vertical_refresh_rate_range
-www.makingbuyingeasy.co.uk//display type,screen_type
 www.makingbuyingeasy.co.uk//display brightness,screen_brightness
+www.makingbuyingeasy.co.uk//display type,screen_type
 www.makingbuyingeasy.co.uk//colour of product,number_of_colors
 www.makingbuyingeasy.co.uk//audio input,input_frequency
 www.makingbuyingeasy.co.uk//packaging height,packaging_dimension
@@ -1483,24 +590,10 @@ www.makingbuyingeasy.co.uk//weight with stand,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//depth with stand,monitor_depth_with_stand
 www.makingbuyingeasy.co.uk//height with stand,monitor_height_with_stand
 www.makingbuyingeasy.co.uk//width with stand,monitor_width_with_stand
-www.makingbuyingeasy.co.uk//monitor type,screen_type
-www.makingbuyingeasy.co.uk//mount type,mount_model
-www.makingbuyingeasy.co.uk//power consumption,power_consumption_class
 www.makingbuyingeasy.co.uk//power consumption off,power_consumption_class
-www.makingbuyingeasy.co.uk//item sort,screen_type
-www.makingbuyingeasy.co.uk//hdmi ports,has_hdmi_port
-www.makingbuyingeasy.co.uk//headphone ports,has_headphone_port
-www.makingbuyingeasy.co.uk//usb ports,has_usb_port
-www.makingbuyingeasy.co.uk//colour support,color
-www.makingbuyingeasy.co.uk//screen size,screen_size_vertical
 www.makingbuyingeasy.co.uk//ethernet lan,wifi
-www.makingbuyingeasy.co.uk//case colour,mount_type
-www.makingbuyingeasy.co.uk//label,brand
 www.makingbuyingeasy.co.uk//colour of product,color
 www.makingbuyingeasy.co.uk//operating temperature tt,working_temperature_min
-www.makingbuyingeasy.co.uk//case colour,screen_type
-www.makingbuyingeasy.co.uk//case colour,number_of_colors
-www.makingbuyingeasy.co.uk//platform supported,supported_resolution
 www.makingbuyingeasy.co.uk//dvi port,has_dvid_port
 www.makingbuyingeasy.co.uk//packaging height,packaging_width
 www.makingbuyingeasy.co.uk//packaging width,packaging_height
@@ -1508,137 +601,44 @@ www.makingbuyingeasy.co.uk//weight,monitor_weight
 www.makingbuyingeasy.co.uk//weight,packaging_weight
 www.makingbuyingeasy.co.uk//height with stand,monitor_dimension_with_stand
 www.makingbuyingeasy.co.uk//width with stand,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//screen dimensions,monitor_dimension
-www.makingbuyingeasy.co.uk//display colors,screen_type
-www.makingbuyingeasy.co.uk//screen surface,screen_type
-www.makingbuyingeasy.co.uk//refresh rate,horizontal_refresh_rate_range
-www.makingbuyingeasy.co.uk//refresh rate,vertical_refresh_rate_range
-www.makingbuyingeasy.co.uk//product type,number_of_colors
-www.makingbuyingeasy.co.uk//monitor size,monitor_dimension
-www.makingbuyingeasy.co.uk//product model,number_of_colors
 www.makingbuyingeasy.co.uk//operating altitude,non_operating_working_altitude
-www.makingbuyingeasy.co.uk//model name,brand
-www.makingbuyingeasy.co.uk//standard refresh rate,digital_vertical_refresh_rate_range
-www.makingbuyingeasy.co.uk//package contents,packaging_dimension
-www.makingbuyingeasy.co.uk//colour support,supported_resolution
-www.makingbuyingeasy.co.uk//item sort,brand
-www.makingbuyingeasy.co.uk//headphone,has_headphone_port
-www.makingbuyingeasy.co.uk//headphone,has_microphone
 www.makingbuyingeasy.co.uk//power consumption powersave,power_consumption_class
-www.makingbuyingeasy.co.uk//in the box,packaging_weight
-www.makingbuyingeasy.co.uk//item sort,number_of_colors
 www.makingbuyingeasy.co.uk//height with stand,monitor_width_with_stand
 www.makingbuyingeasy.co.uk//width with stand,monitor_height_with_stand
-www.makingbuyingeasy.co.uk//package contents,packaging_weight
-www.makingbuyingeasy.co.uk//screen surface,screen_size_vertical
-www.makingbuyingeasy.co.uk//screen size,screen_size_diagonal
-www.makingbuyingeasy.co.uk//screen size,screen_size_horizontal
-www.makingbuyingeasy.co.uk//model,brand
-www.makingbuyingeasy.co.uk//model,color
-www.makingbuyingeasy.co.uk//brand,color
-www.makingbuyingeasy.co.uk//color,brand
-www.makingbuyingeasy.co.uk//description,brand
-www.makingbuyingeasy.co.uk//description,color
-www.makingbuyingeasy.co.uk//view angle,packaging_weight
-www.makingbuyingeasy.co.uk//monitor size,screen_size_vertical
-www.makingbuyingeasy.co.uk//colour,brand
-www.makingbuyingeasy.co.uk//product series,number_of_colors
-www.makingbuyingeasy.co.uk//wall mount,mount_type
-www.makingbuyingeasy.co.uk//power consumption,power_consumption_max
 www.makingbuyingeasy.co.uk//power consumption off,power_consumption_max
 www.makingbuyingeasy.co.uk//display brightness,monitor_weight
 www.makingbuyingeasy.co.uk//supported graphics resolutions,supported_resolution
-www.makingbuyingeasy.co.uk//screen dimensions,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//model,mount_model
-www.makingbuyingeasy.co.uk//category,brand
-www.makingbuyingeasy.co.uk//category,color
-www.makingbuyingeasy.co.uk//part number,number_of_colors
-www.makingbuyingeasy.co.uk//color,number_of_colors
-www.makingbuyingeasy.co.uk//displayport in,has_displayport
-www.makingbuyingeasy.co.uk//display type,mount_type
-www.makingbuyingeasy.co.uk//monitor type,monitor_dimension
-www.makingbuyingeasy.co.uk//colour,number_of_colors
 www.makingbuyingeasy.co.uk//packaging depth,monitor_depth
 www.makingbuyingeasy.co.uk//packaging height,monitor_height
 www.makingbuyingeasy.co.uk//packaging width,monitor_width
-www.makingbuyingeasy.co.uk//monitor type,monitor_weight
-www.makingbuyingeasy.co.uk//product line,number_of_colors
+www.makingbuyingeasy.co.uk//display type,mount_type
 www.makingbuyingeasy.co.uk//ethernet lan,has_ethernet_port
-www.makingbuyingeasy.co.uk//monitor size,monitor_depth
-www.makingbuyingeasy.co.uk//monitor size,monitor_height
-www.makingbuyingeasy.co.uk//monitor size,monitor_width
-www.makingbuyingeasy.co.uk//screen surface,screen_brightness
 www.makingbuyingeasy.co.uk//packaging depth,packaging_dimension
-www.makingbuyingeasy.co.uk//wall mount,mount_model
-www.makingbuyingeasy.co.uk//product name,number_of_colors
-www.makingbuyingeasy.co.uk//monitor size,monitor_dimension_with_stand
 www.makingbuyingeasy.co.uk//plug and play,mount_model
-www.makingbuyingeasy.co.uk//plug  play,mount_model
 www.makingbuyingeasy.co.uk//display diagonal,screen_size_diagonal
-www.makingbuyingeasy.co.uk//standby power consumption,power_consumption_class
 www.makingbuyingeasy.co.uk//power consumption standby,power_consumption_class
 www.makingbuyingeasy.co.uk//weight with stand,monitor_weight
-www.makingbuyingeasy.co.uk//model name,number_of_colors
-www.makingbuyingeasy.co.uk//brand name,number_of_colors
-www.makingbuyingeasy.co.uk//product model,mount_model
-www.makingbuyingeasy.co.uk//weight with stand approximate,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//brand,number_of_colors
-www.makingbuyingeasy.co.uk//power supply,power_consumption_class
-www.makingbuyingeasy.co.uk//monitor size,monitor_weight
-www.makingbuyingeasy.co.uk//package contents,packaging_depth
-www.makingbuyingeasy.co.uk//package contents,packaging_height
-www.makingbuyingeasy.co.uk//platform supported,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//power supply type,power_consumption_class
-www.makingbuyingeasy.co.uk//product family,number_of_colors
-www.makingbuyingeasy.co.uk//colour support,number_of_colors
 www.makingbuyingeasy.co.uk//audio input,has_microphone_input
 www.makingbuyingeasy.co.uk//pivot angle,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//package weight,monitor_weight
-www.makingbuyingeasy.co.uk//adjustable display angle,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//depth with stand,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//case colour,mount_model
-www.makingbuyingeasy.co.uk//screen surface,monitor_dimension
-www.makingbuyingeasy.co.uk//power consumption,power_consumption_standy
 www.makingbuyingeasy.co.uk//power consumption off,power_consumption_standy
-www.makingbuyingeasy.co.uk//category,number_of_colors
-www.makingbuyingeasy.co.uk//standard refresh rate,horizontal_refresh_rate_range
 www.makingbuyingeasy.co.uk//display,monitor_weight
-www.makingbuyingeasy.co.uk//headphone,has_subwoofer
 www.makingbuyingeasy.co.uk//operating temperature tt,working_temperature_range
-www.makingbuyingeasy.co.uk//screen type,mount_type
-www.makingbuyingeasy.co.uk//monitor type,mount_type
 www.makingbuyingeasy.co.uk//depth with stand,monitor_depth
 www.makingbuyingeasy.co.uk//height with stand,monitor_height
-www.makingbuyingeasy.co.uk//mount type,screen_type
 www.makingbuyingeasy.co.uk//width with stand,monitor_width
 www.makingbuyingeasy.co.uk//display brightness,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//screen size,monitor_dimension
-www.makingbuyingeasy.co.uk//headphone ports,headphone_port_type
-www.makingbuyingeasy.co.uk//product type,color
-www.makingbuyingeasy.co.uk//colour support,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//product model,color
-www.makingbuyingeasy.co.uk//screen surface,monitor_weight
 www.makingbuyingeasy.co.uk//viewable size vertical,screen_size_vertical
 www.makingbuyingeasy.co.uk//dvi port,dvi_port_quantity
 www.makingbuyingeasy.co.uk//power consumption max,power_consumption_class
-www.makingbuyingeasy.co.uk//screen size,screen_brightness
-www.makingbuyingeasy.co.uk//screen mode,screen_brightness
-www.makingbuyingeasy.co.uk//display colors,mount_model
 www.makingbuyingeasy.co.uk//display type,mount_model
-www.makingbuyingeasy.co.uk//max resolution,power_consumption_max
-www.makingbuyingeasy.co.uk//max. resolution,power_consumption_max
-www.makingbuyingeasy.co.uk//product type,mount_type
-www.makingbuyingeasy.co.uk//product type,screen_type
 www.makingbuyingeasy.co.uk//power consumption powersave,power_consumption_max
-www.makingbuyingeasy.co.uk//display colors,monitor_dimension
 www.makingbuyingeasy.co.uk//display type,monitor_dimension
-www.makingbuyingeasy.co.uk//colour support,mount_model
-www.makingbuyingeasy.co.uk//colour support,mount_type
 www.makingbuyingeasy.co.uk//weight with stand,monitor_depth_with_stand
 www.makingbuyingeasy.co.uk//weight with stand,monitor_dimension_with_stand
 www.makingbuyingeasy.co.uk//weight with stand,monitor_height_with_stand
-www.makingbuyingeasy.co.uk//screen surface,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//standard refresh rate,vertical_refresh_rate_max
 www.makingbuyingeasy.co.uk//weight,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//packaging depth,packaging_weight
 www.makingbuyingeasy.co.uk//packaging height,packaging_weight
@@ -1646,32 +646,14 @@ www.makingbuyingeasy.co.uk//package weight,packaging_depth
 www.makingbuyingeasy.co.uk//package weight,packaging_dimension
 www.makingbuyingeasy.co.uk//package weight,packaging_height
 www.makingbuyingeasy.co.uk//weight with stand,packaging_weight
-www.makingbuyingeasy.co.uk//product name,brand
 www.makingbuyingeasy.co.uk//horizontal scan range,horizontal_refresh_rate_range
 www.makingbuyingeasy.co.uk//vertical scan range,vertical_refresh_rate_range
-www.makingbuyingeasy.co.uk//monitor size,screen_size_diagonal
-www.makingbuyingeasy.co.uk//monitor size,screen_size_horizontal
-www.makingbuyingeasy.co.uk//screen mode,screen_size_vertical
-www.makingbuyingeasy.co.uk//swivel angle,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//colour support,brand
-www.makingbuyingeasy.co.uk//monitor type,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//display colors,screen_brightness
 www.makingbuyingeasy.co.uk//display type,monitor_weight
-www.makingbuyingeasy.co.uk//screen surface,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//packaging depth,packaging_height
 www.makingbuyingeasy.co.uk//packaging depth,packaging_width
 www.makingbuyingeasy.co.uk//packaging height,packaging_depth
 www.makingbuyingeasy.co.uk//packaging width,packaging_depth
-www.makingbuyingeasy.co.uk//title,brand
-www.makingbuyingeasy.co.uk//in the box,packaging_height
-www.makingbuyingeasy.co.uk//monitor type,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//size,number_of_colors
-www.makingbuyingeasy.co.uk//monitor size,monitor_depth_with_stand
-www.makingbuyingeasy.co.uk//monitor size,monitor_height_with_stand
-www.makingbuyingeasy.co.uk//monitor size,monitor_width_with_stand
-www.makingbuyingeasy.co.uk//item sort,color
 www.makingbuyingeasy.co.uk//display,screen_type
-www.makingbuyingeasy.co.uk//screen type,headphone_port_type
 www.makingbuyingeasy.co.uk//weight with stand,monitor_width_with_stand
 www.makingbuyingeasy.co.uk//depth with stand,monitor_height_with_stand
 www.makingbuyingeasy.co.uk//depth with stand,monitor_width_with_stand
@@ -1681,71 +663,1091 @@ www.makingbuyingeasy.co.uk//digital vertical frequency,digital_vertical_refresh_
 www.makingbuyingeasy.co.uk//packaging height,monitor_dimension
 www.makingbuyingeasy.co.uk//packaging width,monitor_dimension
 www.makingbuyingeasy.co.uk//pivot angle,monitor_weight
-www.makingbuyingeasy.co.uk//view angle,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//item sort,mount_type
-www.makingbuyingeasy.co.uk//monitor size,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//packaging width,packaging_weight
 www.makingbuyingeasy.co.uk//package weight,packaging_width
 www.makingbuyingeasy.co.uk//tilt angle,pixel_pitch
 www.makingbuyingeasy.co.uk//display,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//package weight,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//display colors,monitor_dimension_with_stand
 www.makingbuyingeasy.co.uk//display type,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//display colors,brand
-www.makingbuyingeasy.co.uk//brand,mount_model
-www.makingbuyingeasy.co.uk//brand,mount_type
-www.makingbuyingeasy.co.uk//product type,brand
-www.makingbuyingeasy.co.uk//display type,brand
-www.makingbuyingeasy.co.uk//product model,brand
-www.makingbuyingeasy.co.uk//mount type,brand
 www.makingbuyingeasy.co.uk//colour of product,brand
-www.makingbuyingeasy.co.uk//adjustable display angle,monitor_weight
-www.makingbuyingeasy.co.uk//adjustable display height,monitor_height
-www.makingbuyingeasy.co.uk//adjustable display height,monitor_height_with_stand
+www.makingbuyingeasy.co.uk//display type,brand
 www.makingbuyingeasy.co.uk//swivel angle range,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//screen surface,screen_size_diagonal
-www.makingbuyingeasy.co.uk//screen surface,screen_size_horizontal
 www.makingbuyingeasy.co.uk//power consumption powersave,power_consumption_standy
-www.makingbuyingeasy.co.uk//item sort,screen_size_diagonal
 www.makingbuyingeasy.co.uk//packaging depth,monitor_depth_with_stand
 www.makingbuyingeasy.co.uk//packaging height,monitor_height_with_stand
 www.makingbuyingeasy.co.uk//packaging width,monitor_width_with_stand
-www.makingbuyingeasy.co.uk//offmode power consumption,power_consumption_class
-www.makingbuyingeasy.co.uk//screen size,monitor_dimension_with_stand
-www.makingbuyingeasy.co.uk//screen surface,monitor_depth_with_stand
-www.makingbuyingeasy.co.uk//refresh rate,digital_horizontal_refresh_rate_range
-www.makingbuyingeasy.co.uk//refresh rate,digital_vertical_refresh_rate_range
 www.makingbuyingeasy.co.uk//display,mount_model
 www.makingbuyingeasy.co.uk//display type,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//vertical viewing angle,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//viewing angle vertical,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//tilt angle,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//digital horizontal frequency,digital_horizontal_refresh_rate_range
-www.makingbuyingeasy.co.uk//case colour,headphone_port_type
-www.makingbuyingeasy.co.uk//display colors,mount_type
-www.makingbuyingeasy.co.uk//screen type,monitor_dimension
-www.makingbuyingeasy.co.uk//colour support,screen_type
 www.makingbuyingeasy.co.uk//plug and play,mount_type
-www.makingbuyingeasy.co.uk//plug  play,mount_type
-www.makingbuyingeasy.co.uk//display orientation,screen_size_horizontal
-www.makingbuyingeasy.co.uk//display orientation,screen_size_vertical
-www.makingbuyingeasy.co.uk//screen surface,monitor_depth
-www.makingbuyingeasy.co.uk//operating power consumption,power_consumption_class
 www.makingbuyingeasy.co.uk//power consumption typical,power_consumption_class
 www.makingbuyingeasy.co.uk//depth with stand,monitor_weight_with_stand
 www.makingbuyingeasy.co.uk//height with stand,monitor_weight_with_stand
-www.makingbuyingeasy.co.uk//screen size,monitor_depth
-www.makingbuyingeasy.co.uk//screen size,monitor_height
-www.makingbuyingeasy.co.uk//screen size,monitor_width
-www.makingbuyingeasy.co.uk//screen type,monitor_weight
-www.makingbuyingeasy.co.uk//standby power consumption,power_consumption_max
 www.makingbuyingeasy.co.uk//power consumption standby,power_consumption_max
-www.makingbuyingeasy.co.uk//brand,screen_type
-www.makingbuyingeasy.co.uk//format,color
-www.makingbuyingeasy.co.uk//case colour,color
-www.makingbuyingeasy.co.uk//screen type,brand
-www.makingbuyingeasy.co.uk//in the box,packaging_depth
-www.makingbuyingeasy.co.uk//monitor type,brand
 www.makingbuyingeasy.co.uk//contrast ratio dynamic,contrast_ratio_static
 www.makingbuyingeasy.co.uk//contrast ratio typical,contrast_ratio_dynamic
 www.makingbuyingeasy.co.uk//contrast ratio typical,contrast_ratio_static
+www.mediashopuk.com//contrast ratio dynamic,contrast_ratio_dynamic
+www.mediashopuk.com//dvi port,has_dvi_port
+www.mediashopuk.com//hd type,hd_type
+www.mediashopuk.com//input frequency,input_frequency
+www.mediashopuk.com//pixel pitch,pixel_pitch
+www.mediashopuk.com//response time,response_time
+www.mediashopuk.com//package weight,packaging_weight
+www.mediashopuk.com//packaging depth,packaging_depth
+www.mediashopuk.com//packaging height,packaging_height
+www.mediashopuk.com//packaging width,packaging_width
+www.mediashopuk.com//bluetooth,bluetooth
+www.mediashopuk.com//wifi,wifi
+www.mediashopuk.com//power consumption max,power_consumption_max
+www.mediashopuk.com//power consumption standby,power_consumption_standy
+www.mediashopuk.com//display brightness,screen_brightness
+www.mediashopuk.com//colour of product,number_of_colors
+www.mediashopuk.com//audio input,input_frequency
+www.mediashopuk.com//packaging height,packaging_dimension
+www.mediashopuk.com//packaging width,packaging_dimension
+www.mediashopuk.com//weight with stand,monitor_weight_with_stand
+www.mediashopuk.com//depth with stand,monitor_depth_with_stand
+www.mediashopuk.com//height with stand,monitor_height_with_stand
+www.mediashopuk.com//width with stand,monitor_width_with_stand
+www.mediashopuk.com//power consumption off,power_consumption_class
+www.mediashopuk.com//ethernet lan,wifi
+www.mediashopuk.com//colour of product,color
+www.mediashopuk.com//operating temperature tt,working_temperature_min
+www.mediashopuk.com//dvi port,has_dvid_port
+www.mediashopuk.com//packaging height,packaging_width
+www.mediashopuk.com//packaging width,packaging_height
+www.mediashopuk.com//weight,monitor_weight
+www.mediashopuk.com//weight,packaging_weight
+www.mediashopuk.com//height with stand,monitor_dimension_with_stand
+www.mediashopuk.com//width with stand,monitor_dimension_with_stand
+www.mediashopuk.com//power consumption powersave,power_consumption_class
+www.mediashopuk.com//height with stand,monitor_width_with_stand
+www.mediashopuk.com//width with stand,monitor_height_with_stand
+www.mediashopuk.com//power consumption off,power_consumption_max
+www.mediashopuk.com//display brightness,monitor_weight
+www.mediashopuk.com//supported graphics resolutions,supported_resolution
+www.mediashopuk.com//packaging depth,monitor_depth
+www.mediashopuk.com//packaging height,monitor_height
+www.mediashopuk.com//packaging width,monitor_width
+www.mediashopuk.com//ethernet lan,has_ethernet_port
+www.mediashopuk.com//packaging depth,packaging_dimension
+www.mediashopuk.com//plug and play,mount_model
+www.mediashopuk.com//display diagonal,screen_size_diagonal
+www.mediashopuk.com//power consumption standby,power_consumption_class
+www.mediashopuk.com//weight with stand,monitor_weight
+www.mediashopuk.com//audio input,has_microphone_input
+www.mediashopuk.com//package weight,monitor_weight
+www.mediashopuk.com//depth with stand,monitor_dimension_with_stand
+www.mediashopuk.com//power consumption off,power_consumption_standy
+www.mediashopuk.com//display,monitor_weight
+www.mediashopuk.com//operating temperature tt,working_temperature_range
+www.mediashopuk.com//depth with stand,monitor_depth
+www.mediashopuk.com//height with stand,monitor_height
+www.mediashopuk.com//width with stand,monitor_width
+www.mediashopuk.com//display brightness,monitor_weight_with_stand
+www.mediashopuk.com//dvi port,dvi_port_quantity
+www.mediashopuk.com//viewable size vertical,screen_size_vertical
+www.mediashopuk.com//power consumption max,power_consumption_class
+www.mediashopuk.com//power consumption powersave,power_consumption_max
+www.mediashopuk.com//weight with stand,monitor_depth_with_stand
+www.mediashopuk.com//weight with stand,monitor_dimension_with_stand
+www.mediashopuk.com//weight with stand,monitor_height_with_stand
+www.mediashopuk.com//weight,monitor_weight_with_stand
+www.mediashopuk.com//weight with stand,packaging_weight
+www.mediashopuk.com//package weight,packaging_depth
+www.mediashopuk.com//package weight,packaging_dimension
+www.mediashopuk.com//package weight,packaging_height
+www.mediashopuk.com//packaging depth,packaging_weight
+www.mediashopuk.com//packaging height,packaging_weight
+www.mediashopuk.com//horizontal scan range,horizontal_refresh_rate_range
+www.mediashopuk.com//vertical scan range,vertical_refresh_rate_range
+www.mediashopuk.com//packaging depth,packaging_height
+www.mediashopuk.com//packaging depth,packaging_width
+www.mediashopuk.com//packaging height,packaging_depth
+www.mediashopuk.com//packaging width,packaging_depth
+www.mediashopuk.com//display,screen_type
+www.mediashopuk.com//weight with stand,monitor_width_with_stand
+www.mediashopuk.com//depth with stand,monitor_height_with_stand
+www.mediashopuk.com//depth with stand,monitor_width_with_stand
+www.mediashopuk.com//height with stand,monitor_depth_with_stand
+www.mediashopuk.com//width with stand,monitor_depth_with_stand
+www.mediashopuk.com//digital vertical frequency,digital_vertical_refresh_rate_range
+www.mediashopuk.com//packaging height,monitor_dimension
+www.mediashopuk.com//packaging width,monitor_dimension
+www.mediashopuk.com//package weight,packaging_width
+www.mediashopuk.com//packaging width,packaging_weight
+www.mediashopuk.com//tilt angle,pixel_pitch
+www.mediashopuk.com//display,monitor_weight_with_stand
+www.mediashopuk.com//package weight,monitor_weight_with_stand
+www.mediashopuk.com//colour of product,brand
+www.mediashopuk.com//swivel angle range,monitor_weight_with_stand
+www.mediashopuk.com//power consumption powersave,power_consumption_standy
+www.mediashopuk.com//packaging depth,monitor_depth_with_stand
+www.mediashopuk.com//packaging height,monitor_height_with_stand
+www.mediashopuk.com//packaging width,monitor_width_with_stand
+www.mediashopuk.com//display,mount_model
+www.mediashopuk.com//viewing angle vertical,monitor_weight_with_stand
+www.mediashopuk.com//tilt angle,monitor_weight_with_stand
+www.mediashopuk.com//digital horizontal frequency,digital_horizontal_refresh_rate_range
+www.mediashopuk.com//plug and play,mount_type
+www.mediashopuk.com//power consumption typical,power_consumption_class
+www.mediashopuk.com//depth with stand,monitor_weight_with_stand
+www.mediashopuk.com//height with stand,monitor_weight_with_stand
+www.mediashopuk.com//power consumption standby,power_consumption_max
+www.mediashopuk.com//contrast ratio dynamic,contrast_ratio_static
+www.mediashopuk.com//contrast ratio typical,contrast_ratio_dynamic
+www.mediashopuk.com//contrast ratio typical,contrast_ratio_static
+www.mrhightech.com//bluetooth,bluetooth
+www.mrhightech.com//contrast ratio dynamic,contrast_ratio_dynamic
+www.mrhightech.com//hd type,hd_type
+www.mrhightech.com//input frequency,input_frequency
+www.mrhightech.com//package weight,packaging_weight
+www.mrhightech.com//packaging depth,packaging_depth
+www.mrhightech.com//packaging height,packaging_height
+www.mrhightech.com//packaging width,packaging_width
+www.mrhightech.com//pixel pitch,pixel_pitch
+www.mrhightech.com//response time,response_time
+www.mrhightech.com//wifi,wifi
+www.mrhightech.com//power consumption max,power_consumption_max
+www.mrhightech.com//dvi port,has_dvi_port
+www.mrhightech.com//power consumption standby,power_consumption_standy
+www.mrhightech.com//display brightness,screen_brightness
+www.mrhightech.com//colour of product,number_of_colors
+www.mrhightech.com//packaging height,packaging_dimension
+www.mrhightech.com//packaging width,packaging_dimension
+www.mrhightech.com//audio input,input_frequency
+www.mrhightech.com//weight with stand,monitor_weight_with_stand
+www.mrhightech.com//depth with stand,monitor_depth_with_stand
+www.mrhightech.com//height with stand,monitor_height_with_stand
+www.mrhightech.com//width with stand,monitor_width_with_stand
+www.mrhightech.com//power consumption off,power_consumption_class
+www.mrhightech.com//ethernet lan,wifi
+www.mrhightech.com//colour of product,color
+www.mrhightech.com//operating temperature tt,working_temperature_min
+www.mrhightech.com//packaging height,packaging_width
+www.mrhightech.com//packaging width,packaging_height
+www.mrhightech.com//dvi port,has_dvid_port
+www.mrhightech.com//weight,monitor_weight
+www.mrhightech.com//weight,packaging_weight
+www.mrhightech.com//height with stand,monitor_dimension_with_stand
+www.mrhightech.com//width with stand,monitor_dimension_with_stand
+www.mrhightech.com//power consumption powersave,power_consumption_class
+www.mrhightech.com//height with stand,monitor_width_with_stand
+www.mrhightech.com//width with stand,monitor_height_with_stand
+www.mrhightech.com//power consumption off,power_consumption_max
+www.mrhightech.com//display brightness,monitor_weight
+www.mrhightech.com//supported graphics resolutions,supported_resolution
+www.mrhightech.com//packaging depth,monitor_depth
+www.mrhightech.com//packaging height,monitor_height
+www.mrhightech.com//packaging width,monitor_width
+www.mrhightech.com//ethernet lan,has_ethernet_port
+www.mrhightech.com//packaging depth,packaging_dimension
+www.mrhightech.com//plug and play,mount_model
+www.mrhightech.com//display diagonal,screen_size_diagonal
+www.mrhightech.com//power consumption standby,power_consumption_class
+www.mrhightech.com//weight with stand,monitor_weight
+www.mrhightech.com//audio input,has_microphone_input
+www.mrhightech.com//package weight,monitor_weight
+www.mrhightech.com//depth with stand,monitor_dimension_with_stand
+www.mrhightech.com//power consumption off,power_consumption_standy
+www.mrhightech.com//display,monitor_weight
+www.mrhightech.com//operating temperature tt,working_temperature_range
+www.mrhightech.com//depth with stand,monitor_depth
+www.mrhightech.com//height with stand,monitor_height
+www.mrhightech.com//width with stand,monitor_width
+www.mrhightech.com//display brightness,monitor_weight_with_stand
+www.mrhightech.com//viewable size vertical,screen_size_vertical
+www.mrhightech.com//dvi port,dvi_port_quantity
+www.mrhightech.com//power consumption max,power_consumption_class
+www.mrhightech.com//power consumption powersave,power_consumption_max
+www.mrhightech.com//weight with stand,monitor_depth_with_stand
+www.mrhightech.com//weight with stand,monitor_dimension_with_stand
+www.mrhightech.com//weight with stand,monitor_height_with_stand
+www.mrhightech.com//package weight,packaging_depth
+www.mrhightech.com//package weight,packaging_dimension
+www.mrhightech.com//package weight,packaging_height
+www.mrhightech.com//packaging depth,packaging_weight
+www.mrhightech.com//packaging height,packaging_weight
+www.mrhightech.com//weight,monitor_weight_with_stand
+www.mrhightech.com//weight with stand,packaging_weight
+www.mrhightech.com//horizontal scan range,horizontal_refresh_rate_range
+www.mrhightech.com//vertical scan range,vertical_refresh_rate_range
+www.mrhightech.com//packaging depth,packaging_height
+www.mrhightech.com//packaging depth,packaging_width
+www.mrhightech.com//packaging height,packaging_depth
+www.mrhightech.com//packaging width,packaging_depth
+www.mrhightech.com//display,screen_type
+www.mrhightech.com//weight with stand,monitor_width_with_stand
+www.mrhightech.com//depth with stand,monitor_height_with_stand
+www.mrhightech.com//depth with stand,monitor_width_with_stand
+www.mrhightech.com//height with stand,monitor_depth_with_stand
+www.mrhightech.com//width with stand,monitor_depth_with_stand
+www.mrhightech.com//digital vertical frequency,digital_vertical_refresh_rate_range
+www.mrhightech.com//packaging height,monitor_dimension
+www.mrhightech.com//packaging width,monitor_dimension
+www.mrhightech.com//package weight,packaging_width
+www.mrhightech.com//packaging width,packaging_weight
+www.mrhightech.com//tilt angle,pixel_pitch
+www.mrhightech.com//display,monitor_weight_with_stand
+www.mrhightech.com//package weight,monitor_weight_with_stand
+www.mrhightech.com//colour of product,brand
+www.mrhightech.com//swivel angle range,monitor_weight_with_stand
+www.mrhightech.com//power consumption powersave,power_consumption_standy
+www.mrhightech.com//packaging depth,monitor_depth_with_stand
+www.mrhightech.com//packaging height,monitor_height_with_stand
+www.mrhightech.com//packaging width,monitor_width_with_stand
+www.mrhightech.com//display,mount_model
+www.mrhightech.com//viewing angle vertical,monitor_weight_with_stand
+www.mrhightech.com//tilt angle,monitor_weight_with_stand
+www.mrhightech.com//digital horizontal frequency,digital_horizontal_refresh_rate_range
+www.mrhightech.com//plug and play,mount_type
+www.mrhightech.com//power consumption typical,power_consumption_class
+www.mrhightech.com//depth with stand,monitor_weight_with_stand
+www.mrhightech.com//height with stand,monitor_weight_with_stand
+www.mrhightech.com//power consumption standby,power_consumption_max
+www.mrhightech.com//contrast ratio dynamic,contrast_ratio_static
+www.mrhightech.com//contrast ratio typical,contrast_ratio_dynamic
+www.mrhightech.com//contrast ratio typical,contrast_ratio_static
+www.nexus-t.co.uk//colours,color
+www.nexus-t.co.uk//dynamic contrast ratio,contrast_ratio_dynamic
+www.nexus-t.co.uk//package height,packaging_height
+www.nexus-t.co.uk//package width,packaging_width
+www.nexus-t.co.uk//pixel pitch,pixel_pitch
+www.nexus-t.co.uk//response time,response_time
+www.nexus-t.co.uk//screen type,screen_type
+www.nexus-t.co.uk//speakers,has_speakers
+www.nexus-t.co.uk//standby power consumption,power_consumption_standy
+www.nexus-t.co.uk//package height,packaging_dimension
+www.nexus-t.co.uk//package length,packaging_dimension
+www.nexus-t.co.uk//package width,packaging_dimension
+www.nexus-t.co.uk//model number,number_of_colors
+www.nexus-t.co.uk//screen size,screen_size_vertical
+www.nexus-t.co.uk//package height,packaging_width
+www.nexus-t.co.uk//package length,packaging_depth
+www.nexus-t.co.uk//package length,packaging_height
+www.nexus-t.co.uk//package length,packaging_width
+www.nexus-t.co.uk//package width,packaging_height
+www.nexus-t.co.uk//package length,packaging_weight
+www.nexus-t.co.uk//package contents,packaging_dimension
+www.nexus-t.co.uk//normal power consumption,power_consumption_class
+www.nexus-t.co.uk//horizontal frequency range,horizontal_refresh_rate_range
+www.nexus-t.co.uk//vertical frequency range,vertical_refresh_rate_range
+www.nexus-t.co.uk//package contents,packaging_weight
+www.nexus-t.co.uk//colours,brand
+www.nexus-t.co.uk//screen size,screen_size_diagonal
+www.nexus-t.co.uk//screen size,screen_size_horizontal
+www.nexus-t.co.uk//audio,input_frequency
+www.nexus-t.co.uk//wall mount,mount_type
+www.nexus-t.co.uk//colours,number_of_colors
+www.nexus-t.co.uk//package type,packaging_dimension
+www.nexus-t.co.uk//net weight,monitor_weight
+www.nexus-t.co.uk//net weight,packaging_weight
+www.nexus-t.co.uk//package type,packaging_weight
+www.nexus-t.co.uk//contrast ratio,contrast_ratio_static
+www.nexus-t.co.uk//product name,number_of_colors
+www.nexus-t.co.uk//wall mount,mount_model
+www.nexus-t.co.uk//contrast ratio,contrast_ratio_dynamic
+www.nexus-t.co.uk//standby power consumption,power_consumption_class
+www.nexus-t.co.uk//model number,brand
+www.nexus-t.co.uk//package contents,packaging_depth
+www.nexus-t.co.uk//package contents,packaging_height
+www.nexus-t.co.uk//unit colour stand,monitor_weight_with_stand
+www.nexus-t.co.uk//screen type,mount_type
+www.nexus-t.co.uk//product width without stand,monitor_width_with_stand
+www.nexus-t.co.uk//product group,number_of_colors
+www.nexus-t.co.uk//screen size,monitor_dimension
+www.nexus-t.co.uk//net weight,monitor_weight_with_stand
+www.nexus-t.co.uk//normal power consumption,power_consumption_max
+www.nexus-t.co.uk//screen size,screen_brightness
+www.nexus-t.co.uk//max resolution,power_consumption_max
+www.nexus-t.co.uk//product name,brand
+www.nexus-t.co.uk//horizontal frequency range,vertical_refresh_rate_range
+www.nexus-t.co.uk//vertical frequency range,horizontal_refresh_rate_range
+www.nexus-t.co.uk//unit colour stand,monitor_dimension_with_stand
+www.nexus-t.co.uk//package height,packaging_depth
+www.nexus-t.co.uk//package width,packaging_depth
+www.nexus-t.co.uk//web address,has_ethernet_port
+www.nexus-t.co.uk//package type,mount_type
+www.nexus-t.co.uk//screen type,headphone_port_type
+www.nexus-t.co.uk//package height,monitor_height
+www.nexus-t.co.uk//package width,monitor_width
+www.nexus-t.co.uk//horizontal frequency range,digital_horizontal_refresh_rate_range
+www.nexus-t.co.uk//vertical frequency range,digital_vertical_refresh_rate_range
+www.nexus-t.co.uk//gross weight,monitor_weight
+www.nexus-t.co.uk//gross weight,packaging_weight
+www.nexus-t.co.uk//tilt angle,pixel_pitch
+www.nexus-t.co.uk//normal power consumption,power_consumption_standy
+www.nexus-t.co.uk//package height,packaging_weight
+www.nexus-t.co.uk//package type,screen_type
+www.nexus-t.co.uk//product height,number_of_colors
+www.nexus-t.co.uk//product height,response_time
+www.nexus-t.co.uk//product length,number_of_colors
+www.nexus-t.co.uk//product length,response_time
+www.nexus-t.co.uk//product width,number_of_colors
+www.nexus-t.co.uk//product width,response_time
+www.nexus-t.co.uk//unit colour front,number_of_colors
+www.nexus-t.co.uk//unit colour rear,number_of_colors
+www.nexus-t.co.uk//screen size,monitor_dimension_with_stand
+www.nexus-t.co.uk//unit colour stand,number_of_colors
+www.nexus-t.co.uk//vertical viewing angle,monitor_weight_with_stand
+www.nexus-t.co.uk//tilt angle,monitor_weight_with_stand
+www.nexus-t.co.uk//screen type,monitor_dimension
+www.nexus-t.co.uk//product height without stand,monitor_height_with_stand
+www.nexus-t.co.uk//input power source,number_of_colors
+www.nexus-t.co.uk//screen size,monitor_depth
+www.nexus-t.co.uk//screen size,monitor_height
+www.nexus-t.co.uk//screen size,monitor_width
+www.nexus-t.co.uk//screen type,monitor_weight
+www.nexus-t.co.uk//standby power consumption,power_consumption_max
+www.nexus-t.co.uk//unit colour front,color
+www.nexus-t.co.uk//product height without stand,monitor_dimension_with_stand
+www.nexus-t.co.uk//product length without stand,monitor_dimension_with_stand
+www.nexus-t.co.uk//product width without stand,monitor_dimension_with_stand
+www.nexus-t.co.uk//dynamic contrast ratio,contrast_ratio_static
+www.nexus-t.co.uk//screen type,brand
+www.odsi.co.uk//colour,color
+www.odsi.co.uk//max operating temperature,working_temperature_max
+www.odsi.co.uk//min operating temperature,working_temperature_min
+www.odsi.co.uk//response time,response_time
+www.odsi.co.uk//speakers,has_speakers
+www.odsi.co.uk//horizontal refresh rate,horizontal_refresh_rate_range
+www.odsi.co.uk//pixel pitch,pixel_pitch
+www.odsi.co.uk//vertical refresh rate,vertical_refresh_rate_range
+www.odsi.co.uk//display type,screen_type
+www.odsi.co.uk//power consumption stand by,power_consumption_standy
+www.odsi.co.uk//horizontal refresh rate,vertical_refresh_rate_range
+www.odsi.co.uk//vertical refresh rate,horizontal_refresh_rate_range
+www.odsi.co.uk//colour support,color
+www.odsi.co.uk//humidity range operating,working_humidity
+www.odsi.co.uk//device type,mount_type
+www.odsi.co.uk//horizontal refresh rate,digital_horizontal_refresh_rate_range
+www.odsi.co.uk//vertical refresh rate,digital_vertical_refresh_rate_range
+www.odsi.co.uk//power consumption stand by  sleep,power_consumption_standy
+www.odsi.co.uk//panel type,screen_type
+www.odsi.co.uk//weight,monitor_weight
+www.odsi.co.uk//weight,packaging_weight
+www.odsi.co.uk//product description,number_of_colors
+www.odsi.co.uk//product type,number_of_colors
+www.odsi.co.uk//colour support,supported_resolution
+www.odsi.co.uk//device type,screen_type
+www.odsi.co.uk//power consumption stand by,power_consumption_class
+www.odsi.co.uk//type,mount_type
+www.odsi.co.uk//type,screen_type
+www.odsi.co.uk//horizontal refresh rate,digital_vertical_refresh_rate_range
+www.odsi.co.uk//vertical refresh rate,digital_horizontal_refresh_rate_range
+www.odsi.co.uk//colour,brand
+www.odsi.co.uk//type,brand
+www.odsi.co.uk//type,color
+www.odsi.co.uk//output power  total,number_of_colors
+www.odsi.co.uk//screen coating,screen_type
+www.odsi.co.uk//colour,number_of_colors
+www.odsi.co.uk//display type,mount_type
+www.odsi.co.uk//panel type,mount_type
+www.odsi.co.uk//device type,mount_model
+www.odsi.co.uk//vertical refresh rate,vertical_refresh_rate_max
+www.odsi.co.uk//contrast ratio,contrast_ratio_static
+www.odsi.co.uk//power consumption stand by  sleep,power_consumption_class
+www.odsi.co.uk//horizontal refresh rate,horizontal_refresh_rate_max
+www.odsi.co.uk//device type,number_of_colors
+www.odsi.co.uk//diagonal size,screen_size_diagonal
+www.odsi.co.uk//contrast ratio,contrast_ratio_dynamic
+www.odsi.co.uk//panel type,headphone_port_type
+www.odsi.co.uk//type,number_of_colors
+www.odsi.co.uk//power supply,power_consumption_class
+www.odsi.co.uk//service  support,monitor_weight_with_stand
+www.odsi.co.uk//connector type,mount_type
+www.odsi.co.uk//stand,supported_resolution
+www.odsi.co.uk//colour support,number_of_colors
+www.odsi.co.uk//device type,brand
+www.odsi.co.uk//service  support,supported_resolution
+www.odsi.co.uk//screen coating,screen_size_vertical
+www.odsi.co.uk//min operating temperature,working_temperature_range
+www.odsi.co.uk//product description,color
+www.odsi.co.uk//product type,color
+www.odsi.co.uk//colour support,monitor_dimension_with_stand
+www.odsi.co.uk//device type,headphone_port_type
+www.odsi.co.uk//display type,mount_model
+www.odsi.co.uk//power consumption stand by,supported_resolution
+www.odsi.co.uk//product type,mount_type
+www.odsi.co.uk//product type,screen_type
+www.odsi.co.uk//display type,monitor_dimension
+www.odsi.co.uk//colour support,mount_model
+www.odsi.co.uk//colour support,mount_type
+www.odsi.co.uk//weight,monitor_weight_with_stand
+www.odsi.co.uk//colour support,brand
+www.odsi.co.uk//flat panel mount interface,mount_model
+www.odsi.co.uk//display type,monitor_weight
+www.odsi.co.uk//connector type,screen_type
+www.odsi.co.uk//power consumption stand by,power_consumption_max
+www.odsi.co.uk//stand,monitor_weight_with_stand
+www.odsi.co.uk//video interface,has_headphone_port
+www.odsi.co.uk//speaker system,has_subwoofer
+www.odsi.co.uk//tilt angle,pixel_pitch
+www.odsi.co.uk//vertical refresh rate,horizontal_refresh_rate_max
+www.odsi.co.uk//humidity range operating,working_temperature_range
+www.odsi.co.uk//display type,monitor_dimension_with_stand
+www.odsi.co.uk//product description,brand
+www.odsi.co.uk//product type,brand
+www.odsi.co.uk//display type,brand
+www.odsi.co.uk//panel type,brand
+www.odsi.co.uk//enclosure colour,supported_resolution
+www.odsi.co.uk//image aspect ratio,supported_aspect_ratio
+www.odsi.co.uk//supported computer resolutions,supported_resolution
+www.odsi.co.uk//service  support,monitor_depth_with_stand
+www.odsi.co.uk//display type,monitor_weight_with_stand
+www.odsi.co.uk//viewing angle vertical,monitor_weight_with_stand
+www.odsi.co.uk//pc interface,has_headphone_port
+www.odsi.co.uk//horizontal refresh rate,vertical_refresh_rate_max
+www.odsi.co.uk//tilt angle,monitor_weight_with_stand
+www.odsi.co.uk//colour support,screen_type
+www.odsi.co.uk//panel type,mount_model
+www.odsi.co.uk//vertical refresh rate,digital_vertical_refresh_rate_max
+www.odsi.co.uk//type,mount_model
+www.odsi.co.uk//stand,monitor_depth_with_stand
+www.odsi.co.uk//power consumption stand by  sleep,power_consumption_max
+www.odsi.co.uk//dimensions  weight details,packaging_dimension
+www.odsi.co.uk//power consumption operational,power_consumption_class
+www.odsi.co.uk//connector type,brand
+www.odsi.co.uk//screen coating,monitor_weight
+www.odsi.co.uk//service  support details,monitor_weight_with_stand
+www.odsi.co.uk//power,color
+www.odsi.co.uk//video interface,has_dvid_port
+www.officedepot.com//response time,response_time
+www.officedepot.com//warranty length,warranty_duration
+www.officedepot.com//diagonal screen size,screen_size_diagonal
+www.officedepot.com//color,color
+www.officedepot.com//mount type,mount_type
+www.officedepot.com//speakers,has_speakers
+www.officedepot.com//displayport,has_displayport
+www.officedepot.com//brand name,brand
+www.officedepot.com//standby power consumption,power_consumption_standy
+www.officedepot.com//standard refresh rate,vertical_refresh_rate_range
+www.officedepot.com//depth with stand,monitor_depth_with_stand
+www.officedepot.com//height with stand,monitor_height_with_stand
+www.officedepot.com//width with stand,monitor_width_with_stand
+www.officedepot.com//monitor brightness,screen_brightness
+www.officedepot.com//mount type,mount_model
+www.officedepot.com//color supported,color
+www.officedepot.com//screen size,screen_size_vertical
+www.officedepot.com//platform supported,supported_resolution
+www.officedepot.com//weight,monitor_weight
+www.officedepot.com//weight,packaging_weight
+www.officedepot.com//height with stand,monitor_dimension_with_stand
+www.officedepot.com//width with stand,monitor_dimension_with_stand
+www.officedepot.com//screen surface,screen_type
+www.officedepot.com//product type,number_of_colors
+www.officedepot.com//monitor brightness,monitor_weight
+www.officedepot.com//model name,brand
+www.officedepot.com//standard refresh rate,digital_vertical_refresh_rate_range
+www.officedepot.com//height with stand,monitor_width_with_stand
+www.officedepot.com//width with stand,monitor_height_with_stand
+www.officedepot.com//screen surface,screen_size_vertical
+www.officedepot.com//screen size,screen_size_diagonal
+www.officedepot.com//screen size,screen_size_horizontal
+www.officedepot.com//color,brand
+www.officedepot.com//headphone jack,has_headphone_port
+www.officedepot.com//color,number_of_colors
+www.officedepot.com//product line,number_of_colors
+www.officedepot.com//screen surface,screen_brightness
+www.officedepot.com//product name,number_of_colors
+www.officedepot.com//monitor brightness,monitor_weight_with_stand
+www.officedepot.com//standby power consumption,power_consumption_class
+www.officedepot.com//brand name,number_of_colors
+www.officedepot.com//model name,number_of_colors
+www.officedepot.com//weight with stand approximate,monitor_weight_with_stand
+www.officedepot.com//platform supported,monitor_weight_with_stand
+www.officedepot.com//color supported,number_of_colors
+www.officedepot.com//headphone jack,has_microphone
+www.officedepot.com//adjustable display angle,monitor_weight_with_stand
+www.officedepot.com//depth with stand,monitor_dimension_with_stand
+www.officedepot.com//screen surface,monitor_dimension
+www.officedepot.com//standard refresh rate,horizontal_refresh_rate_range
+www.officedepot.com//mount type,screen_type
+www.officedepot.com//depth with stand,monitor_depth
+www.officedepot.com//height with stand,monitor_height
+www.officedepot.com//width with stand,monitor_width
+www.officedepot.com//product type,color
+www.officedepot.com//screen size,monitor_dimension
+www.officedepot.com//diagonal screen size,screen_size_vertical
+www.officedepot.com//screen surface,monitor_weight
+www.officedepot.com//screen mode,screen_brightness
+www.officedepot.com//screen size,screen_brightness
+www.officedepot.com//product type,mount_type
+www.officedepot.com//product type,screen_type
+www.officedepot.com//screen surface,monitor_dimension_with_stand
+www.officedepot.com//standard refresh rate,vertical_refresh_rate_max
+www.officedepot.com//weight,monitor_weight_with_stand
+www.officedepot.com//product name,brand
+www.officedepot.com//screen mode,screen_size_vertical
+www.officedepot.com//screen surface,monitor_weight_with_stand
+www.officedepot.com//headphone jack,headphone_port_quantity
+www.officedepot.com//depth with stand,monitor_height_with_stand
+www.officedepot.com//depth with stand,monitor_width_with_stand
+www.officedepot.com//height with stand,monitor_depth_with_stand
+www.officedepot.com//width with stand,monitor_depth_with_stand
+www.officedepot.com//product type,brand
+www.officedepot.com//mount type,brand
+www.officedepot.com//adjustable display angle,monitor_weight
+www.officedepot.com//adjustable display height,monitor_height
+www.officedepot.com//adjustable display height,monitor_height_with_stand
+www.officedepot.com//headphone jack,headphone_port_type
+www.officedepot.com//color supported,supported_resolution
+www.officedepot.com//screen surface,screen_size_diagonal
+www.officedepot.com//screen surface,screen_size_horizontal
+www.officedepot.com//offmode power consumption,power_consumption_class
+www.officedepot.com//screen size,monitor_dimension_with_stand
+www.officedepot.com//screen surface,monitor_depth_with_stand
+www.officedepot.com//vertical viewing angle,monitor_weight_with_stand
+www.officedepot.com//screen surface,monitor_depth
+www.officedepot.com//operating power consumption,power_consumption_class
+www.officedepot.com//depth with stand,monitor_weight_with_stand
+www.officedepot.com//height with stand,monitor_weight_with_stand
+www.officedepot.com//screen size,monitor_depth
+www.officedepot.com//screen size,monitor_height
+www.officedepot.com//screen size,monitor_width
+www.officedepot.com//standby power consumption,power_consumption_max
+www.officedepot.com//headphone jack,has_subwoofer
+www.officedepot.com//item ,brand
+www.officedepot.com//diagonal screen size,screen_size_horizontal
+www.ohc24.ch//colour,color
+www.ohc24.ch//pixel pitch,pixel_pitch
+www.ohc24.ch//response time,response_time
+www.ohc24.ch//speakers,has_speakers
+www.ohc24.ch//colour support,color
+www.ohc24.ch//device type,mount_type
+www.ohc24.ch//panel type,screen_type
+www.ohc24.ch//weight,monitor_weight
+www.ohc24.ch//weight,packaging_weight
+www.ohc24.ch//product description,number_of_colors
+www.ohc24.ch//colour support,supported_resolution
+www.ohc24.ch//device type,screen_type
+www.ohc24.ch//colour,brand
+www.ohc24.ch//screen coating,screen_type
+www.ohc24.ch//colour,number_of_colors
+www.ohc24.ch//panel type,mount_type
+www.ohc24.ch//device type,mount_model
+www.ohc24.ch//contrast ratio,contrast_ratio_static
+www.ohc24.ch//device type,number_of_colors
+www.ohc24.ch//contrast ratio,contrast_ratio_dynamic
+www.ohc24.ch//panel type,headphone_port_type
+www.ohc24.ch//colour support,number_of_colors
+www.ohc24.ch//device type,brand
+www.ohc24.ch//screen coating,screen_size_vertical
+www.ohc24.ch//device type,headphone_port_type
+www.ohc24.ch//product description,color
+www.ohc24.ch//colour support,monitor_dimension_with_stand
+www.ohc24.ch//colour support,mount_model
+www.ohc24.ch//colour support,mount_type
+www.ohc24.ch//weight,monitor_weight_with_stand
+www.ohc24.ch//colour support,brand
+www.ohc24.ch//aspect ratio,supported_aspect_ratio
+www.ohc24.ch//product description,brand
+www.ohc24.ch//panel type,brand
+www.ohc24.ch//colour support,screen_type
+www.ohc24.ch//panel type,mount_model
+www.ohc24.ch//screen coating,monitor_weight
+www.pc-canada.com//color,color
+www.pc-canada.com//response time,response_time
+www.pc-canada.com//speakers,has_speakers
+www.pc-canada.com//mount type,mount_type
+www.pc-canada.com//displayport,has_displayport
+www.pc-canada.com//brand name,brand
+www.pc-canada.com//standby power consumption,power_consumption_standy
+www.pc-canada.com//standard refresh rate,vertical_refresh_rate_range
+www.pc-canada.com//depth with stand,monitor_depth_with_stand
+www.pc-canada.com//height with stand,monitor_height_with_stand
+www.pc-canada.com//width with stand,monitor_width_with_stand
+www.pc-canada.com//mount type,mount_model
+www.pc-canada.com//color supported,color
+www.pc-canada.com//screen size,screen_size_vertical
+www.pc-canada.com//platform supported,supported_resolution
+www.pc-canada.com//height with stand,monitor_dimension_with_stand
+www.pc-canada.com//width with stand,monitor_dimension_with_stand
+www.pc-canada.com//screen surface,screen_type
+www.pc-canada.com//product model,number_of_colors
+www.pc-canada.com//product type,number_of_colors
+www.pc-canada.com//standard refresh rate,digital_vertical_refresh_rate_range
+www.pc-canada.com//package contents,packaging_dimension
+www.pc-canada.com//headphone,has_headphone_port
+www.pc-canada.com//headphone,has_microphone
+www.pc-canada.com//height with stand,monitor_width_with_stand
+www.pc-canada.com//width with stand,monitor_height_with_stand
+www.pc-canada.com//package contents,packaging_weight
+www.pc-canada.com//screen surface,screen_size_vertical
+www.pc-canada.com//color,brand
+www.pc-canada.com//screen size,screen_size_diagonal
+www.pc-canada.com//screen size,screen_size_horizontal
+www.pc-canada.com//product series,number_of_colors
+www.pc-canada.com//color,number_of_colors
+www.pc-canada.com//product line,number_of_colors
+www.pc-canada.com//screen surface,screen_brightness
+www.pc-canada.com//product name,number_of_colors
+www.pc-canada.com//standby power consumption,power_consumption_class
+www.pc-canada.com//brand name,number_of_colors
+www.pc-canada.com//product model,mount_model
+www.pc-canada.com//weight with stand approximate,monitor_weight_with_stand
+www.pc-canada.com//package contents,packaging_depth
+www.pc-canada.com//package contents,packaging_height
+www.pc-canada.com//platform supported,monitor_weight_with_stand
+www.pc-canada.com//color supported,number_of_colors
+www.pc-canada.com//adjustable display angle,monitor_weight_with_stand
+www.pc-canada.com//depth with stand,monitor_dimension_with_stand
+www.pc-canada.com//screen surface,monitor_dimension
+www.pc-canada.com//standard refresh rate,horizontal_refresh_rate_range
+www.pc-canada.com//headphone,has_subwoofer
+www.pc-canada.com//depth with stand,monitor_depth
+www.pc-canada.com//height with stand,monitor_height
+www.pc-canada.com//width with stand,monitor_width
+www.pc-canada.com//mount type,screen_type
+www.pc-canada.com//product model,color
+www.pc-canada.com//product type,color
+www.pc-canada.com//screen size,monitor_dimension
+www.pc-canada.com//screen surface,monitor_weight
+www.pc-canada.com//screen mode,screen_brightness
+www.pc-canada.com//screen size,screen_brightness
+www.pc-canada.com//product type,mount_type
+www.pc-canada.com//product type,screen_type
+www.pc-canada.com//screen surface,monitor_dimension_with_stand
+www.pc-canada.com//standard refresh rate,vertical_refresh_rate_max
+www.pc-canada.com//product name,brand
+www.pc-canada.com//screen mode,screen_size_vertical
+www.pc-canada.com//screen surface,monitor_weight_with_stand
+www.pc-canada.com//depth with stand,monitor_height_with_stand
+www.pc-canada.com//depth with stand,monitor_width_with_stand
+www.pc-canada.com//height with stand,monitor_depth_with_stand
+www.pc-canada.com//width with stand,monitor_depth_with_stand
+www.pc-canada.com//tilt angle,pixel_pitch
+www.pc-canada.com//product model,brand
+www.pc-canada.com//product type,brand
+www.pc-canada.com//mount type,brand
+www.pc-canada.com//adjustable display angle,monitor_weight
+www.pc-canada.com//adjustable display height,monitor_height
+www.pc-canada.com//adjustable display height,monitor_height_with_stand
+www.pc-canada.com//color supported,supported_resolution
+www.pc-canada.com//screen surface,screen_size_diagonal
+www.pc-canada.com//screen surface,screen_size_horizontal
+www.pc-canada.com//offmode power consumption,power_consumption_class
+www.pc-canada.com//screen size,monitor_dimension_with_stand
+www.pc-canada.com//screen surface,monitor_depth_with_stand
+www.pc-canada.com//vertical viewing angle,monitor_weight_with_stand
+www.pc-canada.com//tilt angle,monitor_weight_with_stand
+www.pc-canada.com//screen surface,monitor_depth
+www.pc-canada.com//operating power consumption,power_consumption_class
+www.pc-canada.com//depth with stand,monitor_weight_with_stand
+www.pc-canada.com//height with stand,monitor_weight_with_stand
+www.pc-canada.com//screen size,monitor_depth
+www.pc-canada.com//screen size,monitor_height
+www.pc-canada.com//screen size,monitor_width
+www.pc-canada.com//standby power consumption,power_consumption_max
+www.pcconnection.com//color,color
+www.pcconnection.com//display type,screen_type
+www.pcconnection.com//color support,color
+www.pcconnection.com//display size,screen_size_vertical
+www.pcconnection.com//product type,number_of_colors
+www.pcconnection.com//color support,supported_resolution
+www.pcconnection.com//color,brand
+www.pcconnection.com//display size,monitor_dimension
+www.pcconnection.com//color,number_of_colors
+www.pcconnection.com//display type,mount_type
+www.pcconnection.com//contrast ratio,contrast_ratio_static
+www.pcconnection.com//contrast ratio,contrast_ratio_dynamic
+www.pcconnection.com//display size,screen_size_diagonal
+www.pcconnection.com//display size,screen_size_horizontal
+www.pcconnection.com//color support,number_of_colors
+www.pcconnection.com//connector type,mount_type
+www.pcconnection.com//display size,monitor_dimension_with_stand
+www.pcconnection.com//image brightness,working_temperature_range
+www.pcconnection.com//product type,color
+www.pcconnection.com//color support,monitor_dimension_with_stand
+www.pcconnection.com//display type,mount_model
+www.pcconnection.com//product type,mount_type
+www.pcconnection.com//product type,screen_type
+www.pcconnection.com//display type,monitor_dimension
+www.pcconnection.com//color support,mount_model
+www.pcconnection.com//color support,mount_type
+www.pcconnection.com//color support,brand
+www.pcconnection.com//display size,monitor_depth
+www.pcconnection.com//display size,monitor_height
+www.pcconnection.com//display size,monitor_width
+www.pcconnection.com//display type,monitor_weight
+www.pcconnection.com//connector type,screen_type
+www.pcconnection.com//contents,packaging_dimension
+www.pcconnection.com//display type,monitor_dimension_with_stand
+www.pcconnection.com//product type,brand
+www.pcconnection.com//display type,brand
+www.pcconnection.com//display size,monitor_depth_with_stand
+www.pcconnection.com//display size,monitor_height_with_stand
+www.pcconnection.com//display size,monitor_width_with_stand
+www.pcconnection.com//display type,monitor_weight_with_stand
+www.pcconnection.com//color support,screen_type
+www.pcconnection.com//target use,power_consumption_class
+www.pcconnection.com//display size,monitor_weight
+www.pcconnection.com//display size,screen_brightness
+www.pcconnection.com//connector type,brand
+www.pcconnection.com//response timerate,response_time
+www.planet-computer.it//bluetooth,bluetooth
+www.planet-computer.it//display surface,screen_type
+www.planet-computer.it//display surface,monitor_dimension
+www.planet-computer.it//display surface,monitor_weight
+www.planet-computer.it//display surface,monitor_dimension_with_stand
+www.planet-computer.it//plug  play,mount_model
+www.planet-computer.it//display surface,screen_size_vertical
+www.planet-computer.it//display surface,monitor_weight_with_stand
+www.planet-computer.it//pivot angle,monitor_weight_with_stand
+www.planet-computer.it//display surface,monitor_depth_with_stand
+www.planet-computer.it//display surface,monitor_depth
+www.planet-computer.it//display surface,screen_brightness
+www.planet-computer.it//pivot angle,monitor_weight
+www.planet-computer.it//display surface,mount_model
+www.planet-computer.it//plug  play,mount_type
+www.shopmania.com//brand,brand
+www.shopmania.com//dynamic contrast ratio,contrast_ratio_dynamic
+www.shopmania.com//response time,response_time
+www.shopmania.com//display type,screen_type
+www.shopmania.com//power consumption stand by,power_consumption_standy
+www.shopmania.com//weight,monitor_weight
+www.shopmania.com//weight,packaging_weight
+www.shopmania.com//power consumption stand by,power_consumption_class
+www.shopmania.com//brand,color
+www.shopmania.com//category,brand
+www.shopmania.com//category,color
+www.shopmania.com//display type,mount_type
+www.shopmania.com//contrast ratio,contrast_ratio_static
+www.shopmania.com//product name,number_of_colors
+www.shopmania.com//contrast ratio,contrast_ratio_dynamic
+www.shopmania.com//diagonal size,screen_size_diagonal
+www.shopmania.com//brand,number_of_colors
+www.shopmania.com//stand,supported_resolution
+www.shopmania.com//category,number_of_colors
+www.shopmania.com//display type,mount_model
+www.shopmania.com//power consumption stand by,supported_resolution
+www.shopmania.com//display type,monitor_dimension
+www.shopmania.com//weight,monitor_weight_with_stand
+www.shopmania.com//product name,brand
+www.shopmania.com//display type,monitor_weight
+www.shopmania.com//color gamut,color
+www.shopmania.com//power consumption stand by,power_consumption_max
+www.shopmania.com//stand,monitor_weight_with_stand
+www.shopmania.com//color gamut,working_temperature_range
+www.shopmania.com//display type,monitor_dimension_with_stand
+www.shopmania.com//brand,mount_model
+www.shopmania.com//brand,mount_type
+www.shopmania.com//display type,brand
+www.shopmania.com//display type,monitor_weight_with_stand
+www.shopmania.com//stand,monitor_depth_with_stand
+www.shopmania.com//power consumption operational,power_consumption_class
+www.shopmania.com//brand,screen_type
+www.shopmania.com//dynamic contrast ratio,contrast_ratio_static
+www.softwarecity.ca//color,color
+www.softwarecity.ca//displayport,has_displayport
+www.softwarecity.ca//mount type,mount_type
+www.softwarecity.ca//response time,response_time
+www.softwarecity.ca//speakers,has_speakers
+www.softwarecity.ca//brand name,brand
+www.softwarecity.ca//standby power consumption,power_consumption_standy
+www.softwarecity.ca//standard refresh rate,vertical_refresh_rate_range
+www.softwarecity.ca//touchscreen type,screen_type
+www.softwarecity.ca//depth with stand,monitor_depth_with_stand
+www.softwarecity.ca//height with stand,monitor_height_with_stand
+www.softwarecity.ca//width with stand,monitor_width_with_stand
+www.softwarecity.ca//mount type,mount_model
+www.softwarecity.ca//color supported,color
+www.softwarecity.ca//screen size,screen_size_vertical
+www.softwarecity.ca//platform supported,supported_resolution
+www.softwarecity.ca//height with stand,monitor_dimension_with_stand
+www.softwarecity.ca//width with stand,monitor_dimension_with_stand
+www.softwarecity.ca//screen surface,screen_type
+www.softwarecity.ca//product model,number_of_colors
+www.softwarecity.ca//product type,number_of_colors
+www.softwarecity.ca//standard refresh rate,digital_vertical_refresh_rate_range
+www.softwarecity.ca//package contents,packaging_dimension
+www.softwarecity.ca//headphone,has_headphone_port
+www.softwarecity.ca//headphone,has_microphone
+www.softwarecity.ca//height with stand,monitor_width_with_stand
+www.softwarecity.ca//width with stand,monitor_height_with_stand
+www.softwarecity.ca//package contents,packaging_weight
+www.softwarecity.ca//screen surface,screen_size_vertical
+www.softwarecity.ca//color,brand
+www.softwarecity.ca//screen size,screen_size_diagonal
+www.softwarecity.ca//screen size,screen_size_horizontal
+www.softwarecity.ca//product series,number_of_colors
+www.softwarecity.ca//color,number_of_colors
+www.softwarecity.ca//product line,number_of_colors
+www.softwarecity.ca//screen surface,screen_brightness
+www.softwarecity.ca//product name,number_of_colors
+www.softwarecity.ca//standby power consumption,power_consumption_class
+www.softwarecity.ca//brand name,number_of_colors
+www.softwarecity.ca//product model,mount_model
+www.softwarecity.ca//weight with stand approximate,monitor_weight_with_stand
+www.softwarecity.ca//package contents,packaging_depth
+www.softwarecity.ca//package contents,packaging_height
+www.softwarecity.ca//platform supported,monitor_weight_with_stand
+www.softwarecity.ca//color supported,number_of_colors
+www.softwarecity.ca//adjustable display angle,monitor_weight_with_stand
+www.softwarecity.ca//depth with stand,monitor_dimension_with_stand
+www.softwarecity.ca//screen surface,monitor_dimension
+www.softwarecity.ca//standard refresh rate,horizontal_refresh_rate_range
+www.softwarecity.ca//headphone,has_subwoofer
+www.softwarecity.ca//mount type,screen_type
+www.softwarecity.ca//depth with stand,monitor_depth
+www.softwarecity.ca//height with stand,monitor_height
+www.softwarecity.ca//width with stand,monitor_width
+www.softwarecity.ca//product model,color
+www.softwarecity.ca//product type,color
+www.softwarecity.ca//screen size,monitor_dimension
+www.softwarecity.ca//screen surface,monitor_weight
+www.softwarecity.ca//screen mode,screen_brightness
+www.softwarecity.ca//screen size,screen_brightness
+www.softwarecity.ca//product type,mount_type
+www.softwarecity.ca//product type,screen_type
+www.softwarecity.ca//screen surface,monitor_dimension_with_stand
+www.softwarecity.ca//standard refresh rate,vertical_refresh_rate_max
+www.softwarecity.ca//product name,brand
+www.softwarecity.ca//screen mode,screen_size_vertical
+www.softwarecity.ca//screen surface,monitor_weight_with_stand
+www.softwarecity.ca//depth with stand,monitor_height_with_stand
+www.softwarecity.ca//depth with stand,monitor_width_with_stand
+www.softwarecity.ca//height with stand,monitor_depth_with_stand
+www.softwarecity.ca//width with stand,monitor_depth_with_stand
+www.softwarecity.ca//tilt angle,pixel_pitch
+www.softwarecity.ca//mount type,brand
+www.softwarecity.ca//product model,brand
+www.softwarecity.ca//product type,brand
+www.softwarecity.ca//adjustable display angle,monitor_weight
+www.softwarecity.ca//adjustable display height,monitor_height
+www.softwarecity.ca//adjustable display height,monitor_height_with_stand
+www.softwarecity.ca//touchscreen type,mount_type
+www.softwarecity.ca//color supported,supported_resolution
+www.softwarecity.ca//screen surface,screen_size_diagonal
+www.softwarecity.ca//screen surface,screen_size_horizontal
+www.softwarecity.ca//offmode power consumption,power_consumption_class
+www.softwarecity.ca//screen size,monitor_dimension_with_stand
+www.softwarecity.ca//screen surface,monitor_depth_with_stand
+www.softwarecity.ca//vertical viewing angle,monitor_weight_with_stand
+www.softwarecity.ca//tilt angle,monitor_weight_with_stand
+www.softwarecity.ca//screen surface,monitor_depth
+www.softwarecity.ca//operating power consumption,power_consumption_class
+www.softwarecity.ca//depth with stand,monitor_weight_with_stand
+www.softwarecity.ca//height with stand,monitor_weight_with_stand
+www.softwarecity.ca//screen size,monitor_depth
+www.softwarecity.ca//screen size,monitor_height
+www.softwarecity.ca//screen size,monitor_width
+www.softwarecity.ca//standby power consumption,power_consumption_max
+www.vology.com//color,color
+www.vology.com//pixel pitch,pixel_pitch
+www.vology.com//response time,response_time
+www.vology.com//speakers,has_speakers
+www.vology.com//horizontal refresh rate,horizontal_refresh_rate_range
+www.vology.com//max operating temperature,working_temperature_max
+www.vology.com//min operating temperature,working_temperature_min
+www.vology.com//vertical refresh rate,vertical_refresh_rate_range
+www.vology.com//display type,screen_type
+www.vology.com//power consumption stand by,power_consumption_standy
+www.vology.com//horizontal refresh rate,vertical_refresh_rate_range
+www.vology.com//vertical refresh rate,horizontal_refresh_rate_range
+www.vology.com//color support,color
+www.vology.com//humidity range operating,working_humidity
+www.vology.com//device type,mount_type
+www.vology.com//horizontal refresh rate,digital_horizontal_refresh_rate_range
+www.vology.com//vertical refresh rate,digital_vertical_refresh_rate_range
+www.vology.com//power consumption stand by  sleep,power_consumption_standy
+www.vology.com//panel type,screen_type
+www.vology.com//weight,monitor_weight
+www.vology.com//weight,packaging_weight
+www.vology.com//product description,number_of_colors
+www.vology.com//color support,supported_resolution
+www.vology.com//device type,screen_type
+www.vology.com//power consumption stand by,power_consumption_class
+www.vology.com//power consumption sleep,power_consumption_class
+www.vology.com//type,mount_type
+www.vology.com//type,screen_type
+www.vology.com//horizontal refresh rate,digital_vertical_refresh_rate_range
+www.vology.com//vertical refresh rate,digital_horizontal_refresh_rate_range
+www.vology.com//color,brand
+www.vology.com//type,brand
+www.vology.com//type,color
+www.vology.com//audio,input_frequency
+www.vology.com//screen coating,screen_type
+www.vology.com//color,number_of_colors
+www.vology.com//panel type,mount_type
+www.vology.com//display type,mount_type
+www.vology.com//color temperature,color
+www.vology.com//device type,mount_model
+www.vology.com//vertical refresh rate,vertical_refresh_rate_max
+www.vology.com//contrast ratio,contrast_ratio_static
+www.vology.com//power consumption stand by  sleep,power_consumption_class
+www.vology.com//horizontal refresh rate,horizontal_refresh_rate_max
+www.vology.com//device type,number_of_colors
+www.vology.com//contrast ratio,contrast_ratio_dynamic
+www.vology.com//panel type,headphone_port_type
+www.vology.com//diagonal size,screen_size_diagonal
+www.vology.com//type,number_of_colors
+www.vology.com//power supply,power_consumption_class
+www.vology.com//service  support,monitor_weight_with_stand
+www.vology.com//color support,number_of_colors
+www.vology.com//device type,brand
+www.vology.com//service  support,supported_resolution
+www.vology.com//screen coating,screen_size_vertical
+www.vology.com//min operating temperature,working_temperature_range
+www.vology.com//color support,monitor_dimension_with_stand
+www.vology.com//device type,headphone_port_type
+www.vology.com//product description,color
+www.vology.com//color temperature,working_temperature_range
+www.vology.com//power consumption sleep,power_consumption_max
+www.vology.com//display type,mount_model
+www.vology.com//power consumption stand by,supported_resolution
+www.vology.com//color temperature,working_temperature_min
+www.vology.com//dimensions  weight,monitor_dimension
+www.vology.com//dimensions  weight,packaging_dimension
+www.vology.com//display type,monitor_dimension
+www.vology.com//color support,mount_model
+www.vology.com//color support,mount_type
+www.vology.com//weight,monitor_weight_with_stand
+www.vology.com//color support,brand
+www.vology.com//flat panel mount interface,mount_model
+www.vology.com//display type,monitor_weight
+www.vology.com//power consumption stand by,power_consumption_max
+www.vology.com//aspect ratio,supported_aspect_ratio
+www.vology.com//power consumption sleep,power_consumption_standy
+www.vology.com//vertical refresh rate,horizontal_refresh_rate_max
+www.vology.com//humidity range operating,working_temperature_range
+www.vology.com//display type,monitor_dimension_with_stand
+www.vology.com//panel type,brand
+www.vology.com//product description,brand
+www.vology.com//display type,brand
+www.vology.com//service  support,monitor_depth_with_stand
+www.vology.com//display type,monitor_weight_with_stand
+www.vology.com//horizontal refresh rate,vertical_refresh_rate_max
+www.vology.com//color support,screen_type
+www.vology.com//panel type,mount_model
+www.vology.com//vertical refresh rate,digital_vertical_refresh_rate_max
+www.vology.com//type,mount_model
+www.vology.com//power consumption stand by  sleep,power_consumption_max
+www.vology.com//dimensions  weight details,packaging_dimension
+www.vology.com//power consumption operational,power_consumption_class
+www.vology.com//screen coating,monitor_weight
+www.vology.com//service  support details,monitor_weight_with_stand
+www.vology.com//power,color
+www.xpcpro.com//contrast ratio dynamic,contrast_ratio_dynamic
+www.xpcpro.com//dvi port,has_dvi_port
+www.xpcpro.com//hd type,hd_type
+www.xpcpro.com//input frequency,input_frequency
+www.xpcpro.com//power consumption max,power_consumption_max
+www.xpcpro.com//response time,response_time
+www.xpcpro.com//bluetooth,bluetooth
+www.xpcpro.com//package weight,packaging_weight
+www.xpcpro.com//packaging depth,packaging_depth
+www.xpcpro.com//packaging height,packaging_height
+www.xpcpro.com//packaging width,packaging_width
+www.xpcpro.com//pixel pitch,pixel_pitch
+www.xpcpro.com//wifi,wifi
+www.xpcpro.com//full hd,has_full_hd
+www.xpcpro.com//power consumption standby,power_consumption_standy
+www.xpcpro.com//display brightness,screen_brightness
+www.xpcpro.com//colour of product,number_of_colors
+www.xpcpro.com//packaging height,packaging_dimension
+www.xpcpro.com//packaging width,packaging_dimension
+www.xpcpro.com//audio input,input_frequency
+www.xpcpro.com//weight with stand,monitor_weight_with_stand
+www.xpcpro.com//depth with stand,monitor_depth_with_stand
+www.xpcpro.com//height with stand,monitor_height_with_stand
+www.xpcpro.com//width with stand,monitor_width_with_stand
+www.xpcpro.com//power consumption off,power_consumption_class
+www.xpcpro.com//operating temperature range tt,working_temperature_range
+www.xpcpro.com//ethernet lan,wifi
+www.xpcpro.com//colour of product,color
+www.xpcpro.com//operating temperature tt,working_temperature_min
+www.xpcpro.com//dvi port,has_dvid_port
+www.xpcpro.com//packaging height,packaging_width
+www.xpcpro.com//packaging width,packaging_height
+www.xpcpro.com//weight,monitor_weight
+www.xpcpro.com//weight,packaging_weight
+www.xpcpro.com//height with stand,monitor_dimension_with_stand
+www.xpcpro.com//width with stand,monitor_dimension_with_stand
+www.xpcpro.com//power consumption powersave,power_consumption_class
+www.xpcpro.com//height with stand,monitor_width_with_stand
+www.xpcpro.com//width with stand,monitor_height_with_stand
+www.xpcpro.com//operating temperature range tt,working_temperature_min
+www.xpcpro.com//power consumption off,power_consumption_max
+www.xpcpro.com//display brightness,monitor_weight
+www.xpcpro.com//supported graphics resolutions,supported_resolution
+www.xpcpro.com//packaging depth,monitor_depth
+www.xpcpro.com//packaging height,monitor_height
+www.xpcpro.com//packaging width,monitor_width
+www.xpcpro.com//ethernet lan,has_ethernet_port
+www.xpcpro.com//packaging depth,packaging_dimension
+www.xpcpro.com//operating relative humidity range,working_humidity
+www.xpcpro.com//plug and play,mount_model
+www.xpcpro.com//display diagonal,screen_size_diagonal
+www.xpcpro.com//power consumption standby,power_consumption_class
+www.xpcpro.com//weight with stand,monitor_weight
+www.xpcpro.com//ethernet lan connection,has_ethernet_port
+www.xpcpro.com//audio input,has_microphone_input
+www.xpcpro.com//pivot angle,monitor_weight_with_stand
+www.xpcpro.com//storage temperature range tt,working_temperature_range
+www.xpcpro.com//package weight,monitor_weight
+www.xpcpro.com//depth with stand,monitor_dimension_with_stand
+www.xpcpro.com//power consumption off,power_consumption_standy
+www.xpcpro.com//ethernet lan connection,wifi
+www.xpcpro.com//display,monitor_weight
+www.xpcpro.com//operating temperature tt,working_temperature_range
+www.xpcpro.com//depth with stand,monitor_depth
+www.xpcpro.com//height with stand,monitor_height
+www.xpcpro.com//width with stand,monitor_width
+www.xpcpro.com//display brightness,monitor_weight_with_stand
+www.xpcpro.com//dvi port,dvi_port_quantity
+www.xpcpro.com//viewable size vertical,screen_size_vertical
+www.xpcpro.com//power consumption max,power_consumption_class
+www.xpcpro.com//power consumption powersave,power_consumption_max
+www.xpcpro.com//weight with stand,monitor_depth_with_stand
+www.xpcpro.com//weight with stand,monitor_dimension_with_stand
+www.xpcpro.com//weight with stand,monitor_height_with_stand
+www.xpcpro.com//weight,monitor_weight_with_stand
+www.xpcpro.com//weight with stand,packaging_weight
+www.xpcpro.com//package weight,packaging_depth
+www.xpcpro.com//package weight,packaging_dimension
+www.xpcpro.com//package weight,packaging_height
+www.xpcpro.com//packaging depth,packaging_weight
+www.xpcpro.com//packaging height,packaging_weight
+www.xpcpro.com//horizontal scan range,horizontal_refresh_rate_range
+www.xpcpro.com//vertical scan range,vertical_refresh_rate_range
+www.xpcpro.com//packaging depth,packaging_height
+www.xpcpro.com//packaging depth,packaging_width
+www.xpcpro.com//packaging height,packaging_depth
+www.xpcpro.com//packaging width,packaging_depth
+www.xpcpro.com//display,screen_type
+www.xpcpro.com//weight with stand,monitor_width_with_stand
+www.xpcpro.com//depth with stand,monitor_height_with_stand
+www.xpcpro.com//depth with stand,monitor_width_with_stand
+www.xpcpro.com//height with stand,monitor_depth_with_stand
+www.xpcpro.com//width with stand,monitor_depth_with_stand
+www.xpcpro.com//digital vertical frequency,digital_vertical_refresh_rate_range
+www.xpcpro.com//packaging height,monitor_dimension
+www.xpcpro.com//packaging width,monitor_dimension
+www.xpcpro.com//pivot angle,monitor_weight
+www.xpcpro.com//package weight,packaging_width
+www.xpcpro.com//packaging width,packaging_weight
+www.xpcpro.com//tilt angle,pixel_pitch
+www.xpcpro.com//display,monitor_weight_with_stand
+www.xpcpro.com//package weight,monitor_weight_with_stand
+www.xpcpro.com//colour of product,brand
+www.xpcpro.com//swivel angle range,monitor_weight_with_stand
+www.xpcpro.com//power consumption powersave,power_consumption_standy
+www.xpcpro.com//packaging depth,monitor_depth_with_stand
+www.xpcpro.com//packaging height,monitor_height_with_stand
+www.xpcpro.com//packaging width,monitor_width_with_stand
+www.xpcpro.com//display,mount_model
+www.xpcpro.com//viewing angle vertical,monitor_weight_with_stand
+www.xpcpro.com//tilt angle,monitor_weight_with_stand
+www.xpcpro.com//digital horizontal frequency,digital_horizontal_refresh_rate_range
+www.xpcpro.com//plug and play,mount_type
+www.xpcpro.com//power consumption typical,power_consumption_class
+www.xpcpro.com//depth with stand,monitor_weight_with_stand
+www.xpcpro.com//height with stand,monitor_weight_with_stand
+www.xpcpro.com//power consumption standby,power_consumption_max
+www.xpcpro.com//contrast ratio dynamic,contrast_ratio_static
+www.xpcpro.com//contrast ratio typical,contrast_ratio_dynamic
+www.xpcpro.com//contrast ratio typical,contrast_ratio_static

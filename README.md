@@ -1,8 +1,30 @@
 # Assignment on “Big Data Integration”
 ## Schema Alignment
 
-Implementation of the proposed approach on the dataset of the [DI2KG challenge](http://di2kg.inf.uniroma3.it/2020/#challenge). 
+Implementation of the proposed approach on the dataset for the [DI2KG challenge](http://di2kg.inf.uniroma3.it/2020/#challenge). 
 
+### Group Members
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 180.0; height: 180.0">
+        <a href=https://github.com/lauriluca99>
+            <img src=https://avatars.githubusercontent.com/u/67115939?v=4 width="120;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=lauriluca99/>
+            <br />
+            <sub style="font-size:16px"><b>Luca Maria Lauricella</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 180.0; height: 180.0">
+        <a href=https://github.com/Marini97>
+            <img src=https://avatars.githubusercontent.com/u/43860075?v=4 width="120;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Valerio Marini/>
+            <br />
+            <sub style="font-size:16px"><b>Valerio Marini</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
+### Challenge
 The Schema matching task consists in identifying mappings between source attributes (e.g. the attribute "brand" from source "www.ebay.com") and a set of target attributes (e.g. "brand", "dimensions", "screen_size", etc.) defined in a given mediated schema.
 
 Participants to the Schema matching task are provided with the mediated schema (in TXT format, one target attribute per row) and a labelled dataset in CSV format (i.e., $Y^{SM}_v$), containing two columns: "source_attribute_id" and "target_attribute_name":
